@@ -24,10 +24,8 @@ public class Main {
 
     	//Extract useful information. Including sentences, Ideadline... DATE, LOCATION ... in json form to BeautifulData.
         UsefulInformationExtractor usefulInformationExtractor = new UsefulInformationExtractor("/Users/Greyjoy/Documents/HomeWork" +
-                "/NLP_Project/Data/1-25WithUrl");
+                "/NLP_Project/Data/AllWithUrl");
 
-        TrainModel trainModel = new TrainModel(filePath);
-        trainModel.train();
     }
 }
 

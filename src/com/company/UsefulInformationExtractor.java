@@ -166,8 +166,8 @@ public class UsefulInformationExtractor {
         File folder = new File(jobPath);
         ArrayList<String> filePaths = listFilesForFolder(folder);
         for (int i = 0; i < filePaths.size(); i++) {
-            System.out.println("Dealing with: " + String.valueOf(i) + "'th university " + filePaths.get(i));
-            savePageInformationsToJsonFormat(filePaths.get(i));
+                System.out.println("Dealing with: " + String.valueOf(i) + "'th university " + filePaths.get(i));
+                savePageInformationsToJsonFormat(filePaths.get(i));
         }
 //        System.out.println(ProcessFile.readStringFromFile(filePaths.get(0)));
 
