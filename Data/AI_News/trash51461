@@ -1,0 +1,39 @@
+Courtesy of Essess
+Courtesy of Essess
+Courtesy of Essess
+Drive-by heat mapping
+Startup’s thermal-imaging cars can quickly track energy leaks in thousands of homes and buildings.
+Rob Matheson | MIT News Office
+January 5, 2015
+In 2007, Google unleashed a fleet of cars with roof-mounted cameras to provide street-level images of roads around the world. Now MIT spinout Essess is bringing similar “drive-by” innovations to energy efficiency in homes and businesses.
+The startup deploys cars with thermal-imaging rooftop rigs that create heat maps of thousands of homes and buildings per hour, detecting fixable leaks in “building envelopes” — windows, doors, walls, and foundations — to help owners curb energy loss.
+About the size of a large backpack, Essess’ rig includes several long-wave infrared radiometric cameras and near-infrared cameras. These cameras capture heat signatures, while a LiDAR system captures 3-D images to discern building facades from the physical environment. An onboard control system has software to track the route and manage the cameras.
+On the software side, computer vision and machine-learning algorithms stitch together the images, extract features, and filter out background objects. In one night, the cars can generate more than 3 terabytes of data, which is downloaded to an onboard system and processed at the startup’s Boston headquarters.
+Combining those heat maps with novel analytics, Essess shows utilities companies which households leak the most energy and, among those, which owners are most likely to make fixes, so they know where to direct energy-efficiency spending. This may include sending customers the thermal images of their homes along with information on the fixes that could offer the most return on investment.
+But the startup also works with the U.S. Department of Defense to help identify energy-wasting buildings on their bases. And schools, municipalities, oil refineries, and other organizations have hired Essess to scan their facilities and find, for instance, fixes that might affect their heating bills in the winter, have a short payback period, or are within a certain budget. Essess’ analytics can answer those questions, as well.
+“We’ve made thermal imaging very automated on a very large scale,” says Essess co-founder Sanjay Sarma, the Fred Fort Flowers and Daniel Fort Flowers Professor in Mechanical Engineering, who co-invented the technology.
+Founded in 2011, the startup has since mapped more than 4 million homes and buildings in cities across the United States for military, commercial, and research purposes.
+Revving up Essess
+Traditional energy audits usually involve sending one employee to a home to manually scan and record leaks. In fact, the idea for thermal-imaging cars came to Sarma in 2009, when a company sent an employee to his home with a handheld thermal-imaging device — which took longer than expected.
+“I remember thinking, ‘Wouldn’t it be easier to just throw it on a car and drive by the house?’” Sarma says.
+But there were many challenges. “Very expensive thermal cameras had lower resolution than your smartphone camera,” Sarma says. Such cameras cost about $40,000 at the time.
+Then, in 2011, Field Intelligence Lab student Long Phan PhD ’12 made key innovations to the rig that allowed low-cost cameras (about $1,000) to produce high-resolution thermal images.
+Among other things, this included an algorithm called Kinetic Super Resolution — co-invented with Sarma and MIT postdoc Jonathan Jesneck — that computationally combines many different images taken with an inexpensive low-resolution infrared camera to produce a high-resolution mosaic image.
+That year, Sarma, Phan, and Jesneck launched Essess to further develop its technology, estimating that by making homes just 2 percent more efficient, billions of dollars could be saved.
+Not just finding the culprits
+These early innovations to the hardware have “enabled Essess to have this large-scale, software-analytics approach,” says Sarma, who is now Essess’ board director.
+For utility companies, this means pinpointing home and building owners who are more or less likely to implement energy-efficient measures. To do so, Sarma helped develop software that brings in household and demographic data — such as information on households’ mortgage payments, age of tenants, number of children, and utility bills­. (This has since been further developed by Essess engineers.)
+Based on data from across the United States, for example, a household with three children is about 8 percent more likely to seal up leaks than a household with two children, Essess President and CEO Tom Scaramellino says.
+“It’s not just figuring out who the worst culprits are — who’s wasting the most energy — because there are customers that can be wasting energy, but they’ll never fix it,” he says. “There’s the actual energy waste and the psychological component to do something about it. Those are two distinct analyses we layer on top of one another.”
+Results for utilities companies indicate, for instance, which zip codes have homes with the most leaky attics and, among those, which owners are most likely to install attic insulation. Through this process, called the Thermal Analytics Program, utilities can better target customers for energy-efficiency marketing campaigns and other outreach programs, Scaramellino says.
+Another thing setting Essess apart, the startup claims, is its ability to accurately measure the efficiency of heating, ventilation, and air conditioning (HVAC) systems, which eat up about 50 percent of energy used in homes and buildings.
+HVAC system efficiency is affected by the system itself, by household behavioral factors — such as thermostat and window usage — and, finally, by the building envelope. But companies measuring HVAC efficiency today, by reading meters and using other data, have no building-envelope scans, so they can’t really determine if the envelope is indeed the culprit. Essess, on the other hand, has all that information.
+“If we see high meter usage that corresponds to really high HVAC load, but see a really strong envelope, we know there’s probably something going on that’s abnormal and has to be addressed by an HVAC contractor,” Scaramellino says.
+Reality: A tough customer
+While Essess was Sarma’s third startup, it still came with some significant challenges.
+For one, the infrared cameras needed daily calibration, thanks to temperature differences, vibrations, and being left out overnight, among other things. And constant tweaks had to be made to the GPS system that required more sophisticated software.
+“Then you’re driving around and you realize your cables are rusting,” Sarma says. “We realized we couldn’t keep the cameras out overnight, so we had to make them easily detachable and reattachable.”
+There’s also the software. “You get the system running and realize there’s a tree in front of the building and, in the image, it’s hard to figure out where the tree is and where the building is,” Sarma says. That’s when they had to install the LiDAR system, to better differentiate building facades from the surrounding environment.
+What was perhaps the most surprising and challenging aspect, Sarma says, was finding how closely coupled the hardware was to the software.
+“This is truly mechatronic,” he says. “A small change to the hardware could have profound effects on the software. You may say, ‘We’ll switch the frame rate of the cameras to catch more data,’ but that changes everything else in the software. You really have to think about everything together.”
+Now in its fourth iteration, the technology’s constant refining for real-world applications has helped Essess develop a very sophisticated system, Sarma says. “Reality is a tough customer to wrestle down,” he says, “but that’s what engineering’s all about.”

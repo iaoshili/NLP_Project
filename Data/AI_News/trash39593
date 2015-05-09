@@ -1,0 +1,38 @@
+Share
+What makes one intervention work in a school when another seemingly similar one falls flat?
+Increasingly detailed computer models of student behavior and learning may help researchers avoid such setbacks by better pinpointing interventions before taking them to schools.
+"In education research, I get a great idea, apply for funding, … then I spend a few months in schools taking time from students and teachers, and often find out it doesn't work," said Richard L. Lamb, an assistant professor of science education and educational measurement at Washington State University in Pullman.
+"That's great that we have that data," he said, "but it's not the most efficient way to do [research and development]."
+Instead, Mr. Lamb and colleagues are working to pair education technology and neuroscience to mimic how students learn in a classroom and provide an additional means of testing and honing interventions.
+The Student Task and Cognition Model, or STAC-M, is an "artificial neural network," a type of artificial intelligence system that mimics human learning and pattern recognition.
+The project so far has collected data on more than 2,000 high school students ages 14 to 18.
+While the main group is nationally representative, Mr. Lamb said the researchers are also planning to sample specific student groups, such as students of different language backgrounds.
+The Washington State University project is part of a trend of increasing use of online and live student-data collections during early phases of education research.
+Kenneth R. Koedinger, a professor of human-computer interaction and psychology at Carnegie Mellon University, in Pittsburgh, who supervises a separate student-data-analysis initiative but who is not part of the Washington State University project, said education watchers are seeing a steady "trickle" of new projects creating more dynamic uses of education data.
+He believes artificial learning networks will be a normal part of education research in a decade or so.
+"I think that will increasingly be how we can and should evaluate new approaches to instruction," Mr. Koedinger said.
+Teaching a Machine 'Brain'
+For example, a model like STAC-M, which can simulate the effects of an intervention on 100,000 students, could supplement field-testing of a new program in real schools to produce a larger overall sample and strengthen the reliability of the study's findings.
+In the first STAC-M pilot, which is depicted in the 2014 study, Mr. Lamb and his colleagues asked 645 high school students from a Mid-Atlantic traditional public high school to play science-based video games in the lab.
+Several of the game's tasks required critical science reasoning and understanding of concepts like conservation of mass, volume, liquids, and numbers.
+In previous studies using functional magnetic resonance imaging, the tasks had been associated with activation in specific parts of the brain involved with reasoning and executive function.
+Fifteen hours of play created more than 450,000 data points.
+"Kids do lots of things in games, and with game technology, you can get lots of background: what they click on, what they answer, what they don't answer, what tools they use," Mr. Lamb said.
+Each student's responses "taught" a part of the system to approach and solve problems in the way the student would.
+Just as adaptive tutoring systems "learn" how to teach the next lesson from a student's current responses, the STAC-M creates a population of virtual students who respond in the same way live students would.
+Not only can it respond to changes in similar science tasks, but also to other problems that would use the same type of cognitive skills.
+For Mr. Koedinger, the artificial-student system starts off learning much more slowly than real students do, but as it progresses, it tends to learn a bit faster than live students. In part, he thinks that might be because the artificial intelligence is "much more logical" than a student. "A human can consider and reconsider uncertainties—take certain things as uncertain when they really are certain," Mr. Koedinger said. "The [artificial] system takes some things for granted more than the human brain does."
+But that's where students help teach the system.
+A computer learning how to do a science task won't second-guess itself or forget what it previously learned because it is worried that someone else won't think it is good at that particular subject—but it can learn to replicate that slowdown in function when modeling hundreds of students over time.
+"The data gets you to a place you wouldn't get to otherwise; it's already discovering elements of real student learning that have implications for educational design," Mr. Koedinger said.
+Tweaking the Testing Pool
+After collecting the data, the researchers were able to simulate a separate intervention of 100,000 students, varying the curriculum and students' levels of initial background knowledge to test different ways of teaching critical thinking as either an independent skill or one that is taught as part of a specific subject.
+Mr. Lamb and his colleagues suggested that pairing the system with future brain-imaging studies could help researchers pinpoint the ways in which students respond to very similar-seeming interventions differently at the neurological level.
+"I'm not saying we never have to go into the classroom again, but we can run the model to target before we go into the classroom," Mr. Lamb said.
+Challenges in Systems
+However, Cynthia Coburn, a professor of education and social policy at Northwestern University, in Evanston, Ill., and a veteran of long term field-testing in schools, warned that data simulations should never take the place of full-scale experimental trials in schools, because interventions often succeed or fail for reasons that have nothing to do with how students learn.
+"The history of education research is littered with really wonderful lab experiments and interventions created outside the classroom that, for whatever reason, didn't work in the classroom," Ms. Coburn said.
+"I think, bottom line, what we're trying to understand are phenomena of student learning, teacher learning," she added. "Those processes fundamentally occur in schools, so you're never going to get anywhere if you don't look at them in schools."
+Mr. Koedinger of Carnegie-Mellon agreed: Rather than artificial student models replacing live testing in schools, he said he envisions trained teachers and researchers in every school eventually using ongoing computer modeling and data analysis to set up natural experiments during the regular course of school operation.
+"The false premise is that before we do an intervention, we have to be sure" it works, Mr. Koedinger said, but, "there are experiments going on in schools all the time—variation in the textbooks, teachers, etcetera—but there's not monitoring of those choices, no observations to see on a regular basis whether these things work. That's what we need."
+Black line

@@ -21,7 +21,8 @@ from nltk.stem.snowball import SnowballStemmer
 import string
 from formatter import *
 
-workingDirectory = "/Users/Greyjoy/Documents/Homework/NLP_Project/Data/BeautifulData/"
+currDir = os.getcwd()
+workingDirectory = currDir+"/Data/BeautifulData/"
 fileNameForChecking = "fileForChecking"
 
 '''

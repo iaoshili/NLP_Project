@@ -1,0 +1,14 @@
+The short-term benefit: better brownies
+By Rafi Letzter posted Dec 8th, 2014 at 2:15pm
+0
+Humans and machines organize the world in very different ways. People are good at fitting small data sets into larger patterns: Eggs, chocolate, butter, sugar, and flour? Sounds like a brownie mix. Computers, on the other hand, are good at sorting huge data sets into clusters without supervision: All of these ingredients show up in recipes for sweets. But they can struggle with details: Wait, what's this Tootsie Roll doing in my brownie? A new machine-learning model out of MIT aims to close that gap.
+Until now, if scientists asked a computer to sort data points unsupervised, the best it could do was throw similar-looking stuff into a big pile—a process known as topic modeling. The MIT model asks the computer to limit the size of each pile, and organize it around a prototype. In other words, the algorithm is more likely to throw Tootsie Rolls in a separate pile from brownies, because they don't appear in the set's most typical example of a brownie recipe.
+Machine Learning And Sorting
+Christine Daniloff/MIT
+The algorithm lumps data points together according to similarities to each other and to a representative example. In this illustration, the common similarities for each set are circled in blue and the prototype sits to the left.
+An example from the press release illustrates what a difference that can make:
+Suppose, for instance, that an unsupervised-learning algorithm was trying to characterize voters in a population. A plurality of the voters might be registered as Democrats, but a plurality of Republicans may have voted in the last primary. The conventional algorithm might then describe the typical voter as a registered Democrat who voted in the last Republican primary. The prototype constraint makes that kind of result very unlikely, since no single voter would match its characterization.
+To test how people might benefit from the development, researchers Julie Shah and Been Kim fed meal recipes into the old topic modeling system and their new prototyping software. The older topic model spat out a list of ingredients, while the new algorithm found a more typical example of the recipe. Their test subjects were 86 percent successful in cooking their meals from the typical recipe, but only 71 percent from the ingredients list.
+So, what happens when computer thinking looks just a bit more like a person's? For the moment, 15 percent more Cambridge grad students get brownies.
+Follow
+Tags:

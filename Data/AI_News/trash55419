@@ -1,0 +1,39 @@
+or browse the topics below:
+or browse the topics below:
+or browse the topics below:
+or browse the topics below:
+Date:
+Summary:
+Reading a text is something that each of us does at our own individual pace. This simple fact has been exploited by computer scientists who have developed a software system that recognizes how fast a text on a display screen is being read and then allows the text to scroll forward line by line at the right speed. The technology makes use of commercially available eye-tracking glasses, which are able to capture the motion of the user’s eyes and convert this into a reading speed.
+Share:
+Total shares:  
+FULL STORY
+Computer scientists in Saarbrücken have developed a software system that recognizes how fast a text is being read and then allows the text to scroll forward line by line at the right speed.
+Credit: Oliver Dietze
+Computer scientists in Saarbrücken have developed a software system that recognizes how fast a text is being read and then allows the text to scroll forward line by line at the right speed.
+Credit: Oliver Dietze
+Close
+Reading a text is something that each of us does at our own individual pace. This simple fact has been exploited by computer scientists in Saarbrücken who have developed a software system that recognizes how fast a text on a display screen is being read and then allows the text to scroll forward line by line at the right speed. The technology makes use of commercially available eye-tracking glasses, which are able to capture the motion of the user's eyes and convert this into a reading speed. Potential future areas of applications include electronic books or the large-scale displays used in railway stations and shopping centres. The research team will be showcasing its project from March 16th to March 20th at the Cebit computer expo in Hanover.
+Average readers manage about 200 words per minute. Once they reach the end of a page in a book, they turn the page. Things are somewhat different when reading a text on a display. In this case, the reader might use the mouse to pull up the next section of text to be read. This is something the team of computer scientists from Saarland University and the German Research Center for Artificial Intelligence (DFKI) would like to change. Their solution is based on the movement of the reader's eyes. The system analyses the reading speed and uses the result to automatically adjust the speed at which the text is displayed on the screen. 'We use commercially available eye-tracking glasses,' explains Christian Lander, a doctoral research student who works at the DFKI's Innovative Retail Laboratory and is supervised by Professor Antonio Krüger.
+The glasses are equipped with two cameras: a small infrared camera that faces the user and tracks the movement of the pupil in the user's right eye. The other camera faces forward and records the image that the user is looking at. The software combines the images from the two cameras and is thus able to precisely determine the direction of eye gaze. 'We have combined the image capture technology with a computational procedure that we developed in the media informatics research seminar,' says Lander. 'It computes the average speed at which a paragraph is read. The method involves registering how quickly the reader's eye travels from left to right along a line of text and then downward to the next line.' The system recognizes any change in the reader's reading speed and adjusts the text scrolling speed accordingly.
+The system currently allows three readers to simultaneously read the same text on a single display. 'Each reader has their own small window in which they can read the text at their preferred speed,' explains Lander. It is conceivable that in a few years' time this technology will be used on the sorts of large displays found in railway stations or shopping centres. At the moment, tracking glasses are needed in order to register the wearer's gaze. However, the system could be installed in future in other more user-friendly wearable devices such as Google Glass. The method can also be adapted for use on smaller displays or with electronic books.
+Christian Lander is one of 370 doctoral research students currently studying at the Saarbrücken Graduate School of Computer Science.
+Story Source:
+The above story is based on materials provided by University Saarland . Note: Materials may be edited for content and length.
+Cite This Page:
+University Saarland. (2015, March 3). Reading speed harnessed to automatically control text display rates. ScienceDaily. Retrieved May 7, 2015 from www.sciencedaily.com/releases/2015/03/150303074914.htm
+University Saarland. "Reading speed harnessed to automatically control text display rates." ScienceDaily. www.sciencedaily.com/releases/2015/03/150303074914.htm (accessed May 7, 2015).
+Share This Page:
+updated 12:56 pm ET
+May 6, 2015  Evolutionary biologists and computer scientists have come together study the evolution of pop music. Their analysis of ... read more
+Sep. 18, 2013  As e-readers grow in popularity as convenient alternatives to traditional books, researchers have found that convenience may not be their only benefit. The team discovered that when e-readers are set ... read more
+Despite Reported Dislike, Older Readers Put in Less Effort When Using E-Readers
+Feb. 6, 2013  Reading text on digital devices like tablet computers requires less effort from older adults than reading on ... read more
+Strange & Offbeat
+Get the latest science news with ScienceDaily's free email newsletters, updated daily and weekly. Or view hourly updated newsfeeds in your RSS reader:
+Mobile Apps
+Get the latest news from ScienceDaily via our free mobile apps, available for download on the following platforms:
+Have Feedback?
+Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?
+Copyright 2015 ScienceDaily or by third parties, where indicated. All rights controlled by their respective owners.
+Content on this website is for information only. It is not intended to provide medical or other professional advice.

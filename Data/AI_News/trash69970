@@ -1,0 +1,25 @@
+Visually Open Nav.
+Submit
+Visit WIRED Photo for our unfiltered take on photography, photographers, and photographic journalism wrd.cm/1IEnjUH
+Date of Publication: 12.15.14.
+12:56 pm
+GE Uses AI to Charge Electric Cars Without Running Up the Bill
+Electric vehicle chargers in the parking lot of GE's Global Research headquarters in Niskayuna, New York.
+GE
+Optimistic government officials and automakers want to put millions of electric cars on American roads in the next decade. There are a lot of issues to be solved to make that happen (limited range, insufficient infrastructure , high costs, to name the big three), but if we ever get there, we’ll be faced with a new problem: How to ensure the country’s aging electrical grid can handle the added strain of charging millions of cars every day. We’ve got a while before that becomes a real issue, but it’s something electric companies and their suppliers are already thinking about.
+It’s a complicated problem, which is why General Electric, teaming up with Con Edison and researchers Columbia University’s Center for Computational Learning, has picked out one element of the puzzle to address first: How to run EV chargers in New York City buildings without also running up a ginormous bill.
+It turns out that in NYC, very large buildings, which often include parking garages and EV chargers, are billed on both their total energy usage and their peak usage, the maximum amount of power used in a 15-minute window during a month. The rationale here is that when a building requires a bunch of extra energy, even for just a few minutes a day, the power company has to deal with the cost of increasing its generating capacity to cover it.
+So anything a building can do to spread out its energy demands is financially helpful. To do that, the team at GE has created an electric car charging station that uses artificial intelligence and machine learning to estimate exactly how much electricity it needs to pump out, and when—and then provide only that much.
+The goal is to “spread out the charging and put it into the most opportune times of the day,” explains Matt Nielsen, a principal scientist at GE’s Global Research Center. The system watches how the building uses energy and forecasts what use over the next 24 hours will be, taking into account things like holidays, weather, day of the week, and more. It considers the future state of the parking garage, including how many cars will need to be plugged in and when, coming up with an intelligent charge scheduling system designed to keep peak usage rates low. The chargers will modify the amount of juice sent to the cars depending on all these factors, sometimes dropping the rate down to zero if necessary. Of course, humans can override this if they need their car charged posthaste.
+GE researcher Matt Nielsen (standing) studying data with a fellow EV research team member in GE’s Grid Technologies Lab.
+GE
+Unsurprisingly, GE hasn’t decided to roll out its new idea to all of New York City at once. To start, it’s providing five charging stations at a FedEx depot in New York for five electric delivery trucks, along with a separate pilot program at the GE Research Center headquarters in upstate New York. The big weakness of GE’s machine learning technology, named Supervisory Control and Data Acquisition (SCADA), is that it can’t talk to cars to determine their current battery state or how much electricity they need, which kind of makes this whole idea a non-starter. That’s why FedEx is a good partner: Its trucks are tracked and follow standard routes, which makes it way easier to estimate how much energy a charger needs to crank out.
+From this pilot program, GE plans to take the lessons learned and apply them to much larger charging setups. Based on computer simulations, it estimates a building that offers charging for 100 EVs could save more than $10,000 per month in electric bills. Beyond that, it’s also working on technology that could let electric cars return power from their batteries back to the energy grid during times of peak loads, and then recharging when the grid again has excess power.
+“We thought vehicles would require a lot of energy, so time duration of charging would be a lot longer,” Nielsen says. But, there’s actually a lot more flexibility with when a vehicle needs to be charged, allowing GE to build smarter systems to limit impact to electricity bills or the local power grid.
+The company aims to extend this area of research to other types of high-energy loads like data centers, HVAC systems, lighting, and more. In many buildings, electricity usage is extremely spiky in nature, “but if you understand and can forecast when those spikes happen, you can adjust other loads to accommodate.”
+549
+View comments
+More Gear
+Submit
+Visit WIRED Photo for our unfiltered take on photography, photographers, and photographic journalism wrd.cm/1IEnjUH
+ 

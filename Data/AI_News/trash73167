@@ -1,0 +1,28 @@
+▲
+  
+
+Microsoft, five other groups race toward automated image captioning
+Did you ever think that the next hot technology field would be the ability for a machine to "see" a picture and describe it in words?
+Google may have kicked off the  latest wave of interest in automated image recognition, but several teams of researchers, including Microsoft and Baidu, also plan to participate. Microsoft said late Tuesday that the company launched a research project over the summer, where the results were convincing enough to fool humans about 20 percent or so of the time. Microsoft  will publish its results in a paper, which will be presented at the Computer Vision and Pattern Recognition conference in June 2015.
+However, John Platt, a deputy managing director at Microsoft Research, also wrote that he expects papers to be submitted by a team of Baidu and UCLA researchers, as well as teams from U.C. Berkeley; Google; and Stanford and the University of Toronto.
+Microsoft's model breaks an image up into regions, then tries to identify the objects in each region based upon the edges of particular objects that it can detect. This creates a grab bag of words, which the system then tries to sort out into recognizable captions. The system is summarized in the top image. For the image below, Microsoft's automated system came up with "A cat sitting on top of a bed," which, while good, ignores the person sitting next to the cat with an open laptop.
+Microsoft
+In general, however, Microsoft tested against two metrics of machine translation, BLEU and METEOR, and surpassed human levels of recognition using the BLEU metric and just under human levels with METEOR. 
+"The real gold standard is to conduct a blind test and ask people which caption is better... We used Amazon’s Mechanical Turk to ask people to compare pairs of captions: is one better, the other one, or are they about the same?" Platt wrote. "For 23.3% of test images, people thought that the system caption was the same or better than a human caption."
+"The team is pretty psyched about the result," Platt added. "It’s quite a tough problem to even approach human levels of image understanding."
+Why this matters: So far, Google Image Search, Bing Images, and other search technologies have relied on things like file names and context to help identify a picture of say, a hamburger, versus a picture of ground beef. Automated image processing could not only improve the Web's search engines, it could help you: automatically tagging all your vacation photos of the Eiffel Tower, for example, rather than hunting them down by the dates that you were actually in Paris.
+Left unanswered are questions of privacy, of course, a major area of concern for many. Still, it appears that automated image recognition is headed quickly toward reality, given all the interest in the field.
+Correction: Platt's paper has not yet been published.
+Mark Hachman Senior Editor
+As PCWorld's senior staff writer, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite.
+Comments
+To:
+From
+reCAPTCHA
+Sorry
+Latest Videos
+May 4, 2015 2:00 AM
+High-tech cars aren't just about parking assist and electric motors. Listen to Ford CTO Raj Nair geek out on lightweight materials and aerodynamics you've never seen in a production car.
+READ THE RELATED ARTICLE:<
+Subscribe to the Best of PCWorld Newsletter
+By submitting your email address you are consenting to receive email notifications from IDG. You may withdraw your consent at any time. Please refer to our privacy policy for more information.

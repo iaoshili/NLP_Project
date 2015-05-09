@@ -1,0 +1,35 @@
+Andrew Ng: Why ‘Deep Learning’ Is a Mandate for Humans, Not Just Machines Skip To: Start of Article.
+Visually Open Nav.
+Submit
+The next 'Captain America' movie is looking a lot like an 'Avengers' movie. (And it has Martin Freeman!) wrd.cm/1zG4uAQ
+Author: Caleb Garling. Caleb Garling
+Andrew Ng: Why ‘Deep Learning’ Is a Mandate for Humans, Not Just Machines
+#maketechhuman
+If venture capital and research funding are any indication, artificial intelligence will play a leading role in shaping our future. And few tech innovators in the private or public sector have been as prominent in defining that role as Andrew Ng, chief scientist at China’s search giant Baidu. Ng has taught AI at Stanford, led the Google Brain project, founded online education pioneer Coursera, and just last year took his post at “China’s Google” in hopes of figuring out how to teach computers to see and hear, and to do that for the world’s most populous country.
+Small wonder why China represents such a huge opportunity for machine intelligence applications. Baidu is the world’s fifth most trafficked website. Shopping site Taobao, messaging app QQ, media company Sina, and microblogging platform Weibo, all Chinese properties, hold spots within the top 15. When Baidu designs an application, according to Ng, mobile comes first; cell phones are the primary channel of access for Chinese consumers.
+Ng is soft-spoken with an undercurrent of passion when discussing his research. Today he manages a growing team at Baidu’s U.S. campus in Sunnyvale, Calif. He does not believe all hype about the robot revolution, but says he does believe researchers are only scratching the surface of a machine’s potential. Killer robots are not his concern; he prefers to fret about a microprocessor’s run time or pushing voice recognition to a place where humans actually trust it. To him, there’s a lot of work to do. But Ng believes that there are enough good ideas and smart companies that someday soon we’ll be able to speak, rather than tap, when we want something on our smartphones.
+In a recent chat on Skype (edited for brevity and clarity), Ng outlined what he thinks is within reach—and what isn’t—for machine intelligence.
+What excites you most about the potential for AI and deep learning?
+A number of organizations, us and others, have just amazing computer vision technology, doing things that seemed impossible even a year ago. I think the struggle is figuring out the most compelling products. I don’t know that any of us have found the killer app yet.
+In Silicon Valley there are a lot of startups, using computer vision for agriculture or shopping—there are a lot for clothes shopping. At Baidu, for example, if you find a picture of a movie star, we actually use facial recognition to identify that movie star and then tell you things like their age and hobbies. If they are wearing clothing that we recognize, we can find related clothing you can buy, and we show that. That’s been pretty popular.
+Could advertisers eventually bid on the placement in relation to that image?
+We’re not doing that right now; we’re just finding related clothing. But there are a number of verticals like that—recognizing interesting people, recognizing a holiday destination and then showing other pictures of that same destination. There’s probably a potential for computer vision to do even bigger things, but I don’t think we’ve figured out what that is.
+What’s the most valid reason that we should be worried about destructive artificial intelligence?
+I think that hundreds of years from now if people invent a technology that we haven’t heard of yet, maybe a computer could turn evil. But the future is so uncertain. I don’t know what’s going to happen five years from now. The reason I say that I don’t worry about AI turning evil is the same reason I don’t worry about overpopulation on Mars. Hundreds of years from now I hope we’ve colonized Mars. But we’ve never set foot on the planet so how can we productively worry about this problem now?
+What’s it like working on AI every day?
+I think AI is akin to building a rocket ship. You need a huge engine and a lot of fuel. If you have a large engine and a tiny amount of fuel, you won’t make it to orbit. If you have a tiny engine and a ton of fuel, you can’t even lift off. To build a rocket you need a huge engine and a lot of fuel.
+The analogy to deep learning [one of the key processes in creating artificial intelligence] is that the rocket engine is the deep learning models and the fuel is the huge amounts of data we can feed to these algorithms.
+You spent time at Google—what’s your view on self-driving cars?
+I sat close to that team and I’m friends with a lot of them, so I have a sense of what they’re doing. But I was not contributing directly to them.
+I think self-driving cars are a little further out than most people think. There’s a debate about which one of two universes we’re in. In the first universe it’s an incremental path to self-driving cars, meaning you have cruise control, adaptive cruise control, then self-driving cars only on the highways, and you keep adding stuff until 20 years from now you have a self-driving car. In universe two you have one organization, maybe Carnegie Mellon or Google, that invents a self-driving car and bam! You have self-driving cars. It wasn’t available Tuesday but it’s on sale on Wednesday.
+I’m in universe one. I think there’s a lot of confusion about how easy it is to do self-driving cars. There’s a big difference between being able to drive a thousand miles, versus being able to drive anywhere. And it turns out that machine-learning technology is good at pushing performance from 90 to 99 percent accuracy. But it’s challenging to get to four nines (99.99 percent). I’ll give you this: we’re firmly on our way to being safer than a drunk driver.
+You founded Coursera and championed the value of online education programs. How do you think about the future of education?
+Our education system has succeeded so far in teaching generations to do different routine tasks. So when tractors displaced farming labor we taught the next generation to work in factories. But what we’ve never really been good at is teaching a huge number of people to do non-routine creative work.
+Do you buy the argument that the future of labor is less in peril because automation will lower the cost of goods so you will only need to work 10-20 hours a week?
+I would have said zero hours. I see a minimum living wage as a long-term solution, but I’m not sure that’s my favorite. I think society benefits if all the human race is empowered and aspiring to do great things. Giving people the skill sets to do great things will take work.
+616
+View comments
+More Uncategorized
+Submit
+The next 'Captain America' movie is looking a lot like an 'Avengers' movie. (And it has Martin Freeman!) wrd.cm/1zG4uAQ
+ 

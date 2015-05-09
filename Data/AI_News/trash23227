@@ -1,0 +1,43 @@
+or browse the topics below:
+or browse the topics below:
+or browse the topics below:
+or browse the topics below:
+Robots learn to use kitchen tools by watching YouTube videos
+Date:
+Summary:
+Robotic systems that are able to teach themselves have been developed by researchers. Specifically, these robots are able to learn the intricate grasping and manipulation movements required for cooking by watching online cooking videos. The key breakthrough is that the robots can 'think' for themselves, determining the best combination of observed motions that will allow them to efficiently accomplish a given task.
+Share:
+University of Maryland computer scientist Yiannis Aloimonos (center) is developing robotic systems able to visually recognize objects and generate new behavior based on those observations.
+Credit: John T. Consoli
+University of Maryland computer scientist Yiannis Aloimonos (center) is developing robotic systems able to visually recognize objects and generate new behavior based on those observations.
+Credit: John T. Consoli
+Close
+Imagine having a personal robot prepare your breakfast every morning. Now, imagine that this robot didn't need any help figuring out how to make the perfect omelet, because it learned all the necessary steps by watching videos on YouTube. It might sound like science fiction, but a team at the University of Maryland has just made a significant breakthrough that will bring this scenario one step closer to reality.
+Researchers at the University of Maryland Institute for Advanced Computer Studies (UMIACS) partnered with a scientist at the National Information Communications Technology Research Centre of Excellence in Australia (NICTA) to develop robotic systems that are able to teach themselves. Specifically, these robots are able to learn the intricate grasping and manipulation movements required for cooking by watching online cooking videos. The key breakthrough is that the robots can "think" for themselves, determining the best combination of observed motions that will allow them to efficiently accomplish a given task.
+The work will be presented on Jan. 29, 2015, at the Association for the Advancement of Artificial Intelligence Conference in Austin, Texas. The researchers achieved this milestone by combining approaches from three distinct research areas: artificial intelligence, or the design of computers that can make their own decisions; computer vision, or the engineering of systems that can accurately identify shapes and movements; and natural language processing, or the development of robust systems that can understand spoken commands. Although the underlying work is complex, the team wanted the results to reflect something practical and relatable to people's daily lives.
+"We chose cooking videos because everyone has done it and understands it," said Yiannis Aloimonos, UMD professor of computer science and director of the Computer Vision Lab, one of 16 labs and centers in UMIACS. "But cooking is complex in terms of manipulation, the steps involved and the tools you use. If you want to cut a cucumber, for example, you need to grab the knife, move it into place, make the cut and observe the results to make sure you did them properly."
+One key challenge was devising a way for the robots to parse individual steps appropriately, while gathering information from videos that varied in quality and consistency. The robots needed to be able to recognize each distinct step, assign it to a "rule" that dictates a certain behavior, and then string together these behaviors in the proper order.
+"We are trying to create a technology so that robots eventually can interact with humans," said Cornelia Fermüller, an associate research scientist at UMIACS. "So they need to understand what humans are doing. For that, we need tools so that the robots can pick up a human's actions and track them in real time. We are interested in understanding all of these components. How is an action performed by humans? How is it perceived by humans? What are the cognitive processes behind it?"
+Aloimonos and Fermüller compare these individual actions to words in a sentence. Once a robot has learned a "vocabulary" of actions, they can then string them together in a way that achieves a given goal. In fact, this is precisely what distinguishes their work from previous efforts.
+"Others have tried to copy the movements. Instead, we try to copy the goals. This is the breakthrough," Aloimonos explained. This approach allows the robots to decide for themselves how best to combine various actions, rather than reproducing a predetermined series of actions.
+The work also relies on a specialized software architecture known as deep-learning neural networks. While this approach is not new, it requires lots of processing power to work well, and it took a while for computing technology to catch up. Similar versions of neural networks are responsible for the voice recognition capabilities in smartphones and the facial recognition software used by Facebook and other websites.
+While robots have been used to carry out complicated tasks for decades -- think automobile assembly lines -- these must be carefully programmed and calibrated by human technicians. Self-learning robots could gather the necessary information by watching others, which is the same way humans learn. Aloimonos and Fermüller envision a future in which robots tend to the mundane chores of daily life while humans are freed to pursue more stimulating tasks.
+"By having flexible robots, we're contributing to the next phase of automation. This will be the next industrial revolution," said Aloimonos. "We will have smart manufacturing environments and completely automated warehouses. It would be great to use autonomous robots for dangerous work -- to defuse bombs and clean up nuclear disasters such as the Fukushima event. We have demonstrated that it is possible for humanoid robots to do our human jobs."
+The authors' report can be found online at: http://www.umiacs.umd.edu/~yzyang/paper/YouCookMani_CameraReady.pdf
+Story Source:
+The above story is based on materials provided by University of Maryland . Note: Materials may be edited for content and length.
+Cite This Page:
+University of Maryland. (2015, January 13). Robots learn to use kitchen tools by watching YouTube videos. ScienceDaily. Retrieved May 7, 2015 from www.sciencedaily.com/releases/2015/01/150113090600.htm
+University of Maryland. "Robots learn to use kitchen tools by watching YouTube videos." ScienceDaily. www.sciencedaily.com/releases/2015/01/150113090600.htm (accessed May 7, 2015).
+Share This Page:
+updated 12:56 pm ET
+May 6, 2015  Evolutionary biologists and computer scientists have come together study the evolution of pop music. Their analysis of ... read more
+Strange & Offbeat
+TECHNOLOGY
+Get the latest science news with ScienceDaily's free email newsletters, updated daily and weekly. Or view hourly updated newsfeeds in your RSS reader:
+Mobile Apps
+Get the latest news from ScienceDaily via our free mobile apps, available for download on the following platforms:
+Have Feedback?
+Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?
+Copyright 2015 ScienceDaily or by third parties, where indicated. All rights controlled by their respective owners.
+Content on this website is for information only. It is not intended to provide medical or other professional advice.

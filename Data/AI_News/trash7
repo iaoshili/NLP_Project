@@ -1,0 +1,41 @@
+CBC Newsletters
+Daily Digests
+Breaking Alerts
+Log Out
+My Profile
+My Subscriptions
+Log Out
+Montreal Canadiens fan and computer scientist creates ultimate Habs light show
+François Maillet says he taught computer to learn changes in hockey announcer's pitch to signal Habs goal
+By Tracey Lindeman, CBC News Posted: May 03, 2015 2:46 PM ET Last Updated: May 03, 2015 3:39 PM ET
+François Maillet poses in front of his TV monitor hooked up to his computer. When the Habs score, red, white and blue lights flash for about 30 seconds while playing the team's old goal song.  (Submitted by François Maillet)
+External Links
+(Note: CBC does not endorse and is not responsible for the content of external links.)
+﻿François Maillet doesn't consider himself to be overly into hockey — he says he watches about a quarter of the Montreal Canadiens' regular-season games.
+﻿"I'm just a normal guy. Not even a gigantic fan," he says.
+"Computer science is really, really cool. It empowers you to do crazy stuff like this."
+- François Maillet
+But when it comes time for the playoffs, he's admittedly a full-fledged bandwagon-jumper.
+"Right now, I think like most people, I watch every game," Maillet says.
+And now he's got a reason to watch — he's hacked into his Verdun home's smartphone-controlled lighting system to generate a sound and light show every time the Habs score.
+When the Habs score, red, white and blue lights flash for about 30 seconds while playing the Habs' old goal song (appropriately titled "Le Goal Song" by Montreal band L'Oreille Cassée).
+It helps that he's a computer scientist who specializes in artificial intelligence and machine learning.
+Last year, he had set up a manual button he would push to play the goal song used by the Montreal Canadiens.
+But this year, he decided to up the ante.
+Having moved recently, he got new programmable Phillips Hue lights installed in his living room. The lights can be told to brighten, dim and change colours with a smartphone control system.
+"I was talking to some colleagues and I said, 'Wouldn't it be cool if I just made them flash to the music?'" Maillet says.
+After talking it out with his co-workers at Montreal startup Datacratic, he took the long Easter weekend to develop a prototype written with the Python programming language.
+"Computer science is really, really cool. It empowers you to do crazy stuff like this," he says.
+Watch François Maillet's light show here
+Sound-activated light show
+He hacked into the bridge — a sort-of router that connects the smartphone to the lights — and realized he could synchronize sound to it.
+He fed it the sound feed from Quebec television station and game broadcaster TVA — specifically, the heightened pitch of the announcer's voice when he yells "goal" in French: "Et le buuuuuut!"
+"I took 10 games that were before the playoffs and spent one evening extracting the audio — two-second clips of all the Habs goals and the goals from the bad guys, and I gave all of that as training data to the model," Maillet says.
+He said it works well with TVA because the announcer there gets more excited than other broadcasters when the Habs score a goal.
+"It doesn't usually pick up other goals because the commentator isn't excited for the other team," Maillet says. "So on CBC it wouldn't work."
+It also wouldn't work on broadcasting rival RDS, because the machine has only been taught TVA's announcer's pitch. He'd have to feed it different datasets to make it work for other broadcasters.
+Even then, he says, he's so far got about 75 per cent goal-accuracy. He's still fine-tuning his system, so he's hoping for a long playoff series.
+So are his friends, who love the light show. He's not too sure about his neighbours, though.
+"I don't think that they hate me. I think they're probably wondering who is the crazy guy flashing lights in his living room," he says.
+Stay Connected with CBC News
+Top News Headlines

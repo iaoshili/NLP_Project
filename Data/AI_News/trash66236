@@ -1,0 +1,68 @@
+CBC Newsletters
+Daily Digests
+Breaking Alerts
+Log Out
+My Profile
+My Subscriptions
+Log Out
+How facial recognition technology is creeping into daily life
+Face recognition is everywhere from Facebook to some stores and airports, and its use is only growing
+By Kazi Stastna, CBC News Posted: Nov 08, 2014 5:00 AM ET Last Updated: Nov 11, 2014 11:55 AM ET
+Facial recognition technology is used to screen people at the Statue of Liberty in New York. The U.S. government pumped millions of dollars into the development of facial recognition technology after the Sept. 11, 2001 attacks. (Chip East/Reuters)
+Related Stories
+(Note: CBC does not endorse and is not responsible for the content of external links.)
+The Calgary Police Service  became the first  force in Canada to start using facial recognition software to match suspects against a mug shot database this week, but it likely won't be the last.
+The use of facial recognition technology is growing not just in law enforcement and security fields but also in commerce.
+"One of the reasons face [recognition] is so popular is that face images exist of almost everybody," said Kevin Bowyer, an expert on biometrics and computer vision and chair of the department of computer science and engineering at the University of Notre Dame.
+Some cellphone apps use face recognition instead of passwords to give users access to devices. (Carlos Barria /Reuters)
+"You've got your driver's licence photos, you've got your identity badges wherever you work, so you’ve got this legacy of images that are easily accessible for everyone."
+Chances are you've already encountered some form of this technology. Government agencies that issue driver's licences use it to verify that you are who your licence says you are. Banks use it when investigating debit card fraud (and lent it to police trying to identify rioters during the 2010 G20 summit).
+Smartphone apps like FaceCrypt and FastAccessAnywhere use it to grant you access to your mobile devices. Social media sites like Instagram and Facebook employ it when tagging photos. Google uses it in search and tagging functions and police in Dubai have even incorporated it into the Google Glass eyewear officers use.
+Matching faces not so simple
+The algorithms used to match images of faces vary and are largely proprietary but generally employ computational methods to analyze the pixel values in images and identify patterns and correspondences.
+Matching images to mug shots can be problematic when using CCTV or security camera footage, which rarely provides clear, front-facing head shots. (Tony Gentile/Reuters)
+A lot of progress has been made in facial detection and matching in the last decade thanks to the millions of dollars pumped into the field by the U.S. government — primarily the Defence Department — said James Wayman, a facial recognition expert who helped allocate that funding and is a research administrator at San Jose University
+But facial recognition software can still be stymied by many factors: a person's pose, lighting, facial expressions, aging, image resolution and obstructions like hats or even hair.
+"Identification is a very messy process. It's as messy for computers as it is for humans," said Kelly Gates, author of Our Biometric Future: Facial Recognition Technology and the Culture of Surveillance and an associate professor of communication and science studies at University of California, San Diego.
+"People look like each other, people look different over time …​ people can look very different depending on the lighting conditions, depending on the day.…
+'You can never establish certainties; you can only establish probabilities of matches.'
+- Kelly Gates, author of Our Biometric Future
+"You can never establish certainties; you can only establish probabilities of matches." 
+To make a good match, you need images where people are looking straight into the camera and have similar facial expressions — ideally, a smile and not the neutral expression we've all been told to adopt on IDs and passport photos in the post-9/11 era.
+"That rule is born out of this idea that you don't want to match across expressions," Bowyer said. "It turns out it would be better if everybody smiled because your smile is more distinctive than your neutral [expression]."
+CCTV images often not useful
+Facial recognition is only as strong as the algorithms and image banks driving it. When the U.S. National Institute of Standards and Technology  tested the six leading suppliers  of facial recognition software in 2013, it found the best-performing among them (NEC, the provider Calgary police are using) failed to recognize the most likely match in a database of 1.6 million mug shots about four per cent of the time. The worst-performing software missed it about 20 per cent of the time. For webcam images, the failure rates were roughly 11 per cent and 67 per cent, respectively.
+Security cameras are usually mounted high up to prevent them from being vandalized, but this doesn't make for good quality images, says facial recognition expert Jim Wayman. (Soeren Stache/Pool/Reuters)
+​The biggest obstacle to accurately matching faces is image quality. Many of the agencies that use facial recognition rely on CCTV and security cameras, but these produce images that are grainy, low-resolution and taken from above.
+"The worst-possible direction to put a camera to try to recognize somebody’s face is up," said Wayman.
+He says he doubts that casinos, for example, ever really use the facial recognition software that is supposed to help them keep out problem gamblers and spot card cheats and VIP customers because their cameras are generally on the ceiling.
+The poor quality of CCTV images also hindered police efforts to identify the two suspected perpetrators after the 2013 Boston Marathon bombings, who were caught on blurry surveillance footage — their faces partly obscured by hats — taken shortly before two bombs went off. The FBI's facial recognition system failed to find a match for either Tamerlan or Dzhokhar Tsarnaev even though both were in the driver's licence database and Tamerlan was in a government database of known and suspected terrorists.
+FBI adopts face recognition
+Facebook, on the other hand, is full of high-resolution, front-facing pictures of faces, which is why its more than 250 billion uploaded photos are a veritable gold mine for law enforcement.
+The FBI has said it won't store social network photos in the database of 52 million photos that will be part of its new face recognition system, but groups like the Electronic Frontier Foundation  have raised concerns  that "there are no legal or even written FBI policy restrictions in place to prevent this from occurring."
+Iris scans are another biometric tool used to identify individuals. They are used to screen travellers at some airports and will be part of the FBI's new identification database. India is using them to build a massive national identification system. (Mike Blake/Reuters)
+The FBI has said that by 2015, its database will include at least 4.3 million "civil images" — those taken for non-criminal purposes.
+"This means you could become a suspect in a criminal case merely because you applied for a job that required you to submit a photo with your background check," the EFF warned in an analysis of the program.
+The FBI's Next Generation Identification system will also include fingerprints, palm prints, iris scans and information such as ethnicity and immigration status and be shared across agencies and police departments.
+Automated passport checks
+Facial recognition technology is also becoming a familiar site at airports. Australia, New Zealand, the U.K. and Germany are among the countries that use automated airport customs gates outfitted with cameras that snap your picture, which gets matched against your passport — and potentially a watch list.
+A Qantas Airways flight attendant places her passport on a scanner as her face is photographed at an automated border control kiosk at Sydney Airport. (Tim Wimborne/Reuters)
+Canadian border authorities have so far limited their use of biometric tools to iris scans, which are used to verify the identities of those who use CanPass or Nexus IDs to travel between the U.S. and Canada. New passports are equipped with a digital facial image that can be used in face recognition systems, and Passport Canada does use the technology to check applicants' photos against its database.
+But while facial recognition might be able to detect passport fraud, it likely won't help authorities pick a known terror suspect out of a crowd at a busy airport. 
+"How often do terrorists whose picture you have and are looking for really walk through airports? Not very often. A thousand times an hour some poor chump like me walks through the airport … so you get thousands upon thousands of false positives," said Wayman, who advises Australian customs authorities on their SmartGate facial recognition system.
+Experiments in using facial recognition software to identify individuals walking through airports in the U.S. and Japan have failed in recent years because the technology is generally better at the one-to-one type comparisons involved in checking passports or licences than at the one-to-many searches required to match a face in a crowd to one in a database.
+Selling you stuff to your face
+Security-related uses of facial recognition are to be expected, says Bowyer, but it's the commercial applications that have really picked up in recent years.
+Retailers like Reebok and Tesco have used cheap webcam-based facial detection software to monitor how customers react to store displays or to show them age- or gender-specific ads in real time. (Unlike face recognition, face detection doesn't try to make a match but estimates a person's gender, age and facial expression based on what their face looks like and what the software already knows about faces of a certain age, sex or mood.)
+Smart TVs enable cable, video game and marketing companies to gauge audience reaction using face detection while online dating site Match.com  will find you a mate  who looks like your ex with the help of facial recognition​.
+There's even a smartphone app called SceneTap that uses cameras and facial detection to tell you if a club or bar is busy and what the average age and gender ratios of the patrons are.
+Such applications come at price, says Gates: autonomy.
+The SceneTap app doesn't identify individuals but uses face detection technology to scan a club or bar and give users a breakdown of ages, gender ratios and crowd size.  (Jeff Chiu/Associated Press)
+"Facial recognition plugs into a larger set of practices and problems around predictive analytics and the ways in which all of our online and offline experiences are constantly being modulated using data science and data analytics," she said.
+The increasing pervasiveness of facial recognition technologies also raises concerns of privacy.
+The Alberta privacy commissioner has already announced she will review the Calgary police's use of face recognition technology. But the fact is, there is little preventing police and others from making use of images taken in public spaces, where there is no presumption of privacy, or uploaded to networks like Google+ and Facebook, whose privacy policies deem some images to be publicly available.
+Corrections
+A previous version of this story said Kelly Gates is an associate professor of communication and science studies at University of Illinois, Urbana-Champaign. In fact, she is an associate professor of communication and science studies at the University of California, San Diego, and received her PhD from the University of Illinois, Urbana-Champaign.
+Nov 11, 2014 11:45 AM ET
+Stay Connected with CBC News
+Top News Headlines

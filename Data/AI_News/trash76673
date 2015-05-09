@@ -1,0 +1,33 @@
+▲
+  
+
+Tidemark is adding predictive analytics functions to its cloud-based financial planning and analysis software to help companies include unstructured big data sources, like social media messages and sensor information, into forecasting and budgeting decisions.
+The update allows users to incorporate data from 40 sources including Twitter, Thomson Reuters, the U.S. Bureau of Labor as well as internal data gathered from RFID sensors or point-of-sale systems. Any data source with APIs (application programming interfaces) that are compatible with Tidemark’s cloud-to-cloud consumption program can be added.
+Armed with real-time data on customer sentiment or weather patterns, for example, companies will make better business decisions, said Christian Gheorghe, CEO of Tidemark.
+“With this release you are now able to use local data to understand how to hire better or Bloomberg data to forecast better,” he said.
+Tidemark customers can already use the company’s cloud-to-cloud consumption program to add structured data from companies like Box, Workday, New Relic and NetSuite to their workflows.
+“What we are doing now is extending that to pure unstructured data as well,” said Gheorghe.
+Corporate forecasting and budgeting procedures still depend heavily on traditional data sources, such as sales figures from previous years gathered by the finance department, Gheorghe said.
+“The CFO has been used to getting general ledger data that came nicely packaged as a chart of accounts every night or every month as a download,” Gheorghe said. Now, this information is being supplemented by real-time data gathered by RFID tags and sensors that track merchandise and Twitter messages commenting on a company’s products, among other data streams.
+“Streaming data is basically coming at the CFO pretty fast,” Gheorghe said, estimating that of the big data sources available to chief financial officers 60 percent of those are streaming.
+CEOs are starting to question the value of financial forecasts and analysis that don’t include information gathered from big data sources, he said. Executives are tasking IT and finance departments with collecting this information and determining how it impacts a business.
+“The digital transformation that a lot these businesses are going through put a lot of pressure on the CFO to become more strategic in understanding how to drive revenues,” said Gheorghe.
+This mentality marks a shift from finance departments collecting data and issuing reports “that kind of give yesterday’s news.” With Tidemark’s update, retailers, for example, can use predictive analysis to see real-time information like how shelf placement in a store and a product’s color impact its sales. This granular information, combined with other sources, like local market data, helps retailers better forecast sales, said Gheorghe.
+The update, which is available to all users Wednesday, also adds machine learning capabilities to Tidemark’s cloud, which uses the Apache Spark framework for data analytics.
+Traditional machine learning methods like regression analysis and neural networks struggle with incorporating the trove of information that big data has brought to the enterprise, said Gheorghe.
+“The problem with them is when data comes in faster and faster, it’s harder to learn,” he said.
+Tidemark’s computational cloud can handle the data influx so customers get a more accurate and timely forecasts. Customers can note if the forecasts meet or exceed finance and budget parameters, providing the machine learning algorithm with immediate feedback, said Gheorghe. Standard machine learning methods can’t process information as quickly, he added.
+“It’s just something we could never do in the past because you have to train them to run the data again. It’s late by that time and the data source has changed,” said Gheorghe.
+Fred O'Connor Reporter
+Fred O'Connor writes about wearables, Apple, IT careers, health IT and general technology news for the IDG News Service.
+Comments
+To:
+From
+reCAPTCHA
+Sorry
+Latest Videos
+May 4, 2015 2:00 AM
+High-tech cars aren't just about parking assist and electric motors. Listen to Ford CTO Raj Nair geek out on lightweight materials and aerodynamics you've never seen in a production car.
+READ THE RELATED ARTICLE:<
+Subscribe to the Daily Downloads Newsletter
+By submitting your email address you are consenting to receive email notifications from IDG. You may withdraw your consent at any time. Please refer to our privacy policy for more information.

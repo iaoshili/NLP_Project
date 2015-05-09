@@ -1,0 +1,19 @@
+{ action.text }
+2014 in Computing: Breakthroughs in Artificial Intelligence
+The past year saw progress in developing hardware and software capable of human feats of intelligence.
+By Tom Simonite on December 29, 2014
+The holy grail of artificial intelligence—creating software that comes close to mimicking human intelligence—remains far off. But 2014 saw major strides in machine learning software that can gain abilities from experience. Companies in sectors from biotech to computing turned to these new techniques to solve tough problems or develop new products.
+The most striking research results in AI came from the field of deep learning, which involves using crude simulated neurons to process data.
+Results like these have led leading computing companies to compete fiercely for AI researchers . Google paid more than $600 million for a machine learning startup called DeepMind at the start of the year. When MIT Technology Review caught up with the company’s founder, Demis Hassabis, later in the year, he explained how DeepMind’s work was shaped by groundbreaking research into the human brain .
+The search company Baidu, nicknamed “China’s Google,” also spent big on artificial intelligence. It set up a lab in Silicon Valley to expand its existing research into deep learning, and to compete with Google and others for talent. Stanford AI researcher and onetime Google collaborator Andrew Ng was hired to lead that effort. In our feature-length profile , he explained how artificial intelligence could turn people who have never been on the Web into users of Baidu’s Web search and other services.
+Machine learning was also a source of new products this year from computing giants, small startups, and companies outside the computer industry.
+Some of the most interesting applications of artificial intelligence came in health care. IBM is now close to seeing a version of its Jeopardy!-winning Watson software help cancer doctors use genomic data to choose personalized treatment plans for patients . Applying machine learning to a genetic database enabled one biotech company to invent a noninvasive test that prevents unnecessary surgery .
+Using artificial intelligence techniques on genetic data is likely to get a lot more common now that Google, Amazon, and other large computing companies are getting into the business of storing digitized genomes .
+However, the most advanced machine learning software must be trained with large data sets, something that is very energy intensive, even for companies with sophisticated infrastructure. That’s motivating work on a new type of “neuromorphic” chips modeled loosely on ideas from neuroscience . Those chips can run machine learning algorithms more efficiently.
+This year, IBM began producing a prototype brain-inspired chip it says could be used in large numbers to build a kind of supercomputer specialized for learning. A more compact neuromorphic chip, developed by General Motors and the Boeing-owned research lab HRL, took flight in a tiny drone aircraft .
+All this rapid progress in artificial intelligence led some people to ponder the possible downsides and long-term implications of the technology. One software engineer who has since joined Google cautioned that our instincts about privacy must change now that machines can decipher images .
+Meanwhile, a more benign view of the far future came from science fiction author Greg Egan. In a thoughtful response to the sci-fi movie Her, he suggested that conversational AI companions could make us better at interacting with other humans .
+Already a Magazine subscriber?
+You're automatically an Insider. It's easy to activate or upgrade your account.
+It's the new way to subscribe. Get even more of the tech news, research, and discoveries you crave.
+Find out why MIT Technology Review Insider is for you and explore your options.

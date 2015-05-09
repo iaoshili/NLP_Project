@@ -1,0 +1,26 @@
+Visually Open Nav.
+Submit
+Visit WIRED Photo for our unfiltered take on photography, photographers, and photographic journalism wrd.cm/1IEnjUH
+Date of Publication: 04.09.15.
+8:09 pm
+Now Anyone Can Tap the AI Behind Amazon’s Recommendations
+1K
+Getty Images
+Amazon helped show the world how machines can learn. As far back as the late ’90s, the company’s online retail site would track every book, CD, and movie you purchased. As time went on, it would develop a pretty good sense of what you liked, serving up product recommendations its code predicted would catch your eye.
+It wasn’t rocket science. It was an algorithm. But it worked. And in the years since, the field of so-called machine learning has evolved in enormous ways, with the likes of Google, Facebook, and Microsoft training enormous networks of machines to identify faces in photos, recognize the spoken word, and instantly translate conversations from one language to another.
+Now, as these tech giants advance the state of the art, there’s a movement afoot to bring machine learning to the business world at large. Many companies are offering online services that anyone can use to build their own recommendation engine, fraud detection system, or some other app powered by machine learning. A startup called MetaMind is democratizing machine learning in this way , as are big names such as Microsoft, Google, and IBM.
+On Thursday, Amazon unveiled a similar machine learning service, pitching it as a way for any business to use the AI tech the company has spent years developing inside its own operation. Known as the Amazon Machine Learning Service, it’s designed for software developers “with no experience in machine learning,” AWS head Andy Jassy said on stage at a mini-conference in San Francisco.
+The new tool is part of the company’s ever-growing suite of cloud computing services, known as Amazon Web Services , or AWS. Like Google, Microsoft, and IBM , AWS offers all sorts of tools that provide instant access to computing power over the internet. Basically, these are tools that let you build online applications without setting up your own infrastructure. Now, as with its options for servers and storage, you can use Amazon’s machine learning rather than building your own.
+Leave the Learning to Us
+About two years ago, according to Matt Wood, who helps oversees data science at AWS, Amazon built a machine learning service solely for use inside the company. Basically, this was an online service that let any Amazon engineer built an application that involved machine learning. Among other things, he says, the service now drives a camera-based system that can identify and track products inside the company’s fulfillment centers.
+The new service is basically a version of what Amazon was using internally now made available to engineers and businesses outside of Amazon. Judging from Wood’s description, the service is not as sophisticated as what Amazon (or Google or Facebook) use inside their own data centers. But it’s meant to provide the average business with expertise they may not have. It’s focused, he says, on “real-world problems for developers.”
+Umair Sadiq, a software engineer at tech giant nVidia who dabbles in machine learning, likes the idea of the service. But he points out that if the tools offered by the service are too general, they may not be all that useful. “There isn’t that much rocket science in machine learning in general,” he says.
+Deep Learning
+According to Wood, the service is best used to build things like recommendation engines or fraud detection. For example, if you’re running a retail app, Wood says, you can use the service to detect fraudulent orders.
+In this light, the service sounds similar to Microsoft’s Azure Machine Learning Service. But Joseph Sirosh, the Microsoft vice president who oversees Azure Machine Learning and once worked at Amazon, says Microsoft’s service also offers the kind of “deep learning” algorithms that are driving things like Skype’s real-time translation tool or Facebook’s face recognition system.
+Deep learning—a technology that essentially provides a more complex breed of machine learning via massive networks of computers—is the next frontier. This is also the sort of thing offered by MetaMind, with a special emphasis on natural language processing—i.e. the ability of machines to understand natural language. “That,” says Sadiq, “I do like.”
+View comments
+More Business
+Submit
+Visit WIRED Photo for our unfiltered take on photography, photographers, and photographic journalism wrd.cm/1IEnjUH
+ 

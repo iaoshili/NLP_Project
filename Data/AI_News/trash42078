@@ -1,0 +1,20 @@
+change edition:
+Should we be concerned about Placemeter – an app which monitors street views from apartment windows?
+Placemeter pays New Yorkers to suction-cup an old smartphone to their window, then records and analyses what’s happening outside
+Placemeter’s algorithm counts the number of people entering shops and monitors traffic levels
+Elizabeth Rust
+Last modified on Thursday 6 November 2014 04.45 EST
+In Christopher Nolan’s 2008 film The Dark Knight, Batman tracks down the Joker via a controversial technique: he hacks into the mobile phones of unsuspecting citizens to create a comprehensive, real-time, 3D surveillance map of Gotham City and its residents. His tech specialist, Lucius Fox, agrees to help him – but warns Batman that he has gone too far, and declares his resignation.
+Now a new app is hoping you’ll agree to something similar: by paying you to suction-cup an old smartphone on your window and record what’s happening on the street outside.
+Placemeter is paying people up to $50 a month for the video feed they supply to the company. The raw film is transmitted to a sensor that turns the feed into aggregated and anonymised data for local businesses, urban planners and advertisers to purchase so that they can get a more accurate measurement of activity within the city.
+The startup, which launched last year, is currently only streaming data from New York. It has already raised $7.6m in funding, $6m of which was secured in second-round funding in September 2014 .
+“What we offer is a counting and measuring tool,” Florent Peyre, the co-founder of Placemeter said. “We use computer vision to train computers to recognise objects in live video feed. For example, this type of shape or group of pixels is most likely to be a pedestrian or a car or a bus. So you’re almost giving the gift of sight to the computer, but the beautiful thing is that no one is really watching the video to classify objects.”
+Placemeter says it does not store any of the video feed it receives, nor does its analysis involve facial recognition. Security experts, however, are concerned about the amount of video feed and data accessible by a private company.
+Ryan Kalember, chief product officer of WatchDox, says: “This is different from CCTV in London because at least law enforcement who have access to it are operating under a series of restrictions to prevent it from being abused. [In the case of Placemeter] both hackers and malicious insiders who gain access to the footage could use it to compromise the privacy of all sorts of people they wanted to stalk or surveil in the physical world.”
+Placemeter maintains that the video feeds are just too far away to recognise anyone, and it would be no different to putting a human on a street corner to manually count the number of people passing by. “We’re not surveiling, we’re not watching, computers are counting. It’s a big difference,” Peyre said. “Our algorithm is about accuracy of counting.”
+Even if Placemeter’s service is about counting and measuring – and not tracking – Kalember still cautions about the abuse that could take place if video feed from a private company were put into the hands of someone who wanted to use it maliciously.
+“When you have huge amounts of data laying around and the potential for face recognition technology, all in one place, there’s a risk of someone malicious monitoring what they want. Really bad things can happen on the internet when you’re aware of where somebody lives in real life, much less when you have a video feed of what’s going on outside their window in real life,” he said.
+This discussion is closed for comments.
+We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+Commenting has been disabled for this account ( why? )
+Order by

@@ -1,0 +1,28 @@
+▲
+  
+
+Google's DeepMind AI project apes human memory and programming skills
+The mission of Google’s DeepMind Technologies startup is to “solve intelligence.” Now, researchers there have developed an artificial intelligence system that can mimic some of the brain’s memory skills and even program like a human.
+The researchers developed a kind of neural network that can use external memory, allowing it to learn and perform tasks based on stored data.
+Neural networks are interconnected computational “neurons.” While conventional neural networks have lacked readable and writeable memory, they have been used in machine learning and pattern-recognition applications such as computer vision and speech recognition.
+The so-called Neural Turing Machine (NTM) that DeepMind researchers have been working on combines a neural network controller with a memory bank, giving it the ability to learn to store and retrieve information.
+The system’s name refers to computer pioneer Alan Turing’s formulation of computers as machines having working memory for storage and retrieval of data.
+The researchers put the NTM through a series of tests including tasks such as copying and sorting blocks of data. Compared to a conventional neural net, the NTM was able to learn faster and copy longer data sequences with fewer errors. They found that its approach to the problem was comparable to that of a human programmer working in a low-level programming language.
+The NTM “can infer simple algorithms such as copying, sorting and associative recall from input and output examples,” DeepMind’s Alex Graves, Greg Wayne and Ivo Danihelka wrote in a research paper available on the arXiv repository.
+“Our experiments demonstrate that it is capable of learning simple algorithms from example data and of using these algorithms to generalize well outside its training regime.”
+A spokesman for Google declined to provide more information about the project, saying only that the research is “quite a few layers down from practical applications.”
+In a 2013 paper, Graves and colleagues showed how they had used a technique known as deep reinforcement learning to get DeepMind software to learn to play seven classic Atari 2600 video games , some better than a human expert, with the only input being information visible on the game screen.
+Google confirmed earlier this year that it had acquired London-based DeepMind Technologies, founded in 2011 as an artificial intelligence company. The move is expected to have a major role in advancing the search giant’s research into robotics, self-driving cars and smart-home technologies .
+More recently, DeepMind co-founder Demis Hassabis wrote in a blog post that Google is partnering with artificial intelligence researchers from Oxford University to study topics including image recognition and natural language understanding.
+Tim Hornyak reports on IT, telecommunications, science, and technology in Japan for the IDG News Service.
+Comments
+To:
+From
+reCAPTCHA
+Sorry
+Latest Videos
+May 4, 2015 2:00 AM
+High-tech cars aren't just about parking assist and electric motors. Listen to Ford CTO Raj Nair geek out on lightweight materials and aerodynamics you've never seen in a production car.
+READ THE RELATED ARTICLE:<
+Subscribe to the Best of PCWorld Newsletter
+By submitting your email address you are consenting to receive email notifications from IDG. You may withdraw your consent at any time. Please refer to our privacy policy for more information.

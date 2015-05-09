@@ -1,0 +1,25 @@
+Visually Open Nav.
+Submit
+12 awesome, WIRED-approved places to take mom this Sunday wrd.cm/1Ps1p9v
+Slide: 2 / of 2 .
+Date of Publication: 01.12.15.
+6:30 am
+The AI Bot That Scans Your Email and Automatically Schedules Meetings
+X.ai CEO Dennis Mortensen.
+X.ai
+Dennis Mortensen remembers the exact moment he decided he needed a better way to schedule meetings over email. He had just finished counting how many appointments he had in 2012. The number was 1,019. And of those 1,019 meetings, he had rescheduled 672 of them. “I looked at those two numbers, and I cried a little thinking about how much time I invested in emailing people,” Mortensen recalls.
+Mortensen shared his grievances with a good friend, Alex Poon, and the two tried a little experiment: They agreed to handle each other’s calendar appointments for the next couple of months. To their surprise the system worked out pretty well, even without a deep knowledge of each other’s preferences, such as knowing who the other person was willing to shift their schedule around for in order to meet. “We also started to see how quickly some of the responses clustered,” Mortensen says. “There’s a way people deal with meetings—how they set them up, postpone them, show gratitude, add new participants—and the whole thing started to crystallize in that moment.”
+So Mortensen and Poon, both analytics geeks, launched a startup called X.ai to work on an intelligent virtual assistant for scheduling meetings over email. They named their bot Amy, who has become another addition in the growing arsenal of intelligent, “invisible” software designed to automate the tedious minutiae of everyday life. Projects in this growing space range from a small decision such as deciding what to wear in the morning to big, complicated ones, like the algorithms that steer Google’s self-driving car.
+X.ai
+The X.ai system is still in closed beta, but it’s currently testing the virtual assistant internally with a few users. You don’t have to download an app or visit a website to use Amy (or Andrew, her male counterpart, if you prefer); she simply has her own email address. When someone emails you with a request for an appointment, you cc Amy and she takes it from there, handling the back and forth in a separate email chain. Since she can peek into your schedule, she can make nuanced suggestions, like meeting at your own workplace if you have a number of other appointments lined up in the same location that day. She can even handle typos.
+To pull this off, Amy uses an artificial intelligence technology known as natural language processing, drawing information from the email responses, breaking the sentences down, and attempting to classify each chunk properly. If the interaction is simple enough—the task is simply getting an appointment on the calendar—Mortensen claims Amy is accurate 98 percent of the time. She does a bit worse, he says, with more complicated scenarios.
+Say, for instance, two people had a meeting all set up for the next day, and late one night, one of them suddenly realized the time he’d agreed to was double-booked with another appointment. He might send a quick email to Amy at 1 a.m. trying to reschedule “tomorrow’s meeting.” Since 1 a.m. is technically past midnight, Mortensen explains, “Amy would literally interpret that as the next day, even if that wasn’t the sender’s intention.” But Mortensen says they’re working on it.
+The Real World Problem
+Richard Socher, a one-time natural language processing researcher at Stanford University and current CTO of artificial intelligence startup MetaMind , says a portion of a system like the kind X.ai is trying to create can indeed be automated, but only up to a point. Things like personal preference matter, of course. There’s also time differences, locations of meetings, and other potential sources of real-world confusion. Socher points out that the problem could be more easily tackled by a player like Google, which has enough of a range of products that it could figure out where you live, where you work, and the current traffic. “There are a couple of situations that will require too much world knowledge, situational knowledge, and personal knowledge. That knowledge is going to be hard to collect,” he says.
+Even Mortensen acknowledges that X.ai’s final product may never be perfect. But he still thinks there’s potential to release a useful tool. “It needs a bit more data to work with, and we’ll work on it until we can get it as accurate as possible,” he says. “But I do have a fallback: going back to the user and asking them what they mean.”
+665
+View comments
+More Business
+Submit
+12 awesome, WIRED-approved places to take mom this Sunday wrd.cm/1Ps1p9v
+ 

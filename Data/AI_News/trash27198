@@ -1,0 +1,46 @@
+December 11, 2014
+In many machine vision and image processing systems, it may be necessary to capture images at different focal lengths. In machine vision systems, images of parts with varying heights may need to be captured as they move along a conveyor. Similarly, many microscopy applications attempt to create complete 3D images of parts by reconstructing multiple 2D image slices - an arduous and time-consuming process. A number of different approaches can be used to address such applications including the use of fixed focal length lenses configured with motorized z-stages.
+[Native Advertisement]
+Since such stages add to the cost of a vision system, many manufacturers are looking to cameras equipped with variable focus lenses. To date, both Cognex (Natick, MA, USA; www.cognex.com ) and Microscan (Renton, WA, USA; www.microscan.com ) have incorporated variable-focus lenses based on liquid lens technology into their barcode readers.
+While these lenses are based on the electrowetting principle, an alternative method that uses standing sound waves has recently been developed by TAG Optics (Princeton, NJ, USA; www.tagoptics.com ). Their new TAG Lens is a type of gradient index of refraction (GRIN) lens that uses standing sound waves to produce a constantly changing gradient index of refraction within a liquid contained in the lens. Since such GRIN lenses have flat outer surfaces and generate parabolic wavefronts, they do not exhibit the aberrations commonly found in traditional spherical lenses.
+Using sound waves to rapidly alter the focal length of a lens allows images at different focal lengths to be displayed simultaneously. 3D representation of a laser diode is shown in (a), (b)-(d) show the individual focal planes with the TAG Lens OFF, while (e) is the image generated using the TAG Lens which combines focal information from all 3 focal planes of interest. Images taken with a BX60 microscope, 10x 0.15 NA objective with TAG Lens in the infinity corrected space.
+As the molecules of the liquid oscillate, the index of refraction changes from a positive curvature to a negative curvature, the period of which is directly related to the frequency of the sound waves. When the lens is operated under continuous illumination it will sample all the focal lengths between the minimum and maximum focus in a very short time.
+When using synchronized pulsed light, the TAG lens will behave as a standard fixed-focus lens that depends on the pulse timing. Thus, it is possible to select a focal length by controlling the pulsed light that is applied to the object being imaged. If this light source is not synchronized, each light pulse will result in a different focal length that depends on the relative phase difference between the light source and lens.
+"Since the frequency of sound waves can vary from 100kHz to over 1 MHz," says Christian Theriault, Co-Founder and CEO of TAG Optics, "this makes the TAG lens the world's fastest variable focusing optical lens."
+Because variable focusing is based on standing waves within the lens, different frequencies will exhibit different apertures. At low frequencies (such as 70kHz), the effective aperture will be approximately 11mm while at 500kHz and above, the effective aperture will be approximately 1.5mm or even smaller.
+"Each of the resonant frequencies will also exhibit a different optical power and thus focal length," says Theriault. "At 550kHz, for example, this is close to 40 diopters while at 140kHz, it will be approximately 1-2 diopters." Recently, TAG Optics demonstrated the capability of the lens when installed in the infinity corrected space of a BX 60 microscope from Olympus (Center Valley, PA, USA; www.olympusamerica.com ). In the demonstration Theriault showed how by using the company's DrvKit2.1 USB-controller to control both the TAG Lens and the light source in-focus information from several focal planes can be viewed simultaneously. A video of a similar demonstration where the technology is simultaneously imaging the two focal planes of a specimen made of fiber-optic wells can be found at http://bit.ly/1vEMEs2 .
+Related Articles
+Please fill out the remaining fields to complete your registration.
+First Name
+Last Name
+Company
+Country
+By clicking 'Register' you are indicating that you have read and agree with our Terms & Conditions and Privacy Policy .
+Login Don't have an account? Register now
+Login with your social account:
+or
+Email Address
+Join using your social account:
+or
+First Name
+Last Name
+Company
+Country
+By clicking 'Register' you are indicating that you have read and agree with our Terms & Conditions and Privacy Policy .
+Forgot your password?
+Enter your email address below and click Submit to receive password reset instructions via email.
+Email Address
+Email Sent
+An email has been sent to .
+Please follow the instructions in the email to change your password.
+Welcome to PennWell
+Your account has been created and you are now logged in.
+You already have an account
+It looks like you've already registered with .  Please login below to link your accounts.
+Email Address
+Please Verify Your Account
+Thank you for registering.  An email has been sent to with instructions on how to verify your account.
+Please Verify Your Account
+The specified email address, , needs to be verified in order to login.
+An email has been sent to with instructions on how to verify your account.
+/content/vsd/en/articles/print/volume-19/issue-11/departments/technology-trends/lenses-and-optics-variable-focus-lenses-uses-sound-to-shape-light.resendverification.html

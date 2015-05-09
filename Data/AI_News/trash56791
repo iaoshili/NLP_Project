@@ -1,0 +1,45 @@
+or browse the topics below:
+or browse the topics below:
+or browse the topics below:
+or browse the topics below:
+Machine learning offers insights into evolution of monkey faces, researchers find
+Date:
+Summary:
+Computers are able to use monkey facial patterns not only to correctly identify species, but also distinguish individuals within species, a team of scientists has found. Their findings, which rely on computer algorithms to identify guenon monkeys, suggest that machine learning can be a tool in studying evolution and help to identify the factors that have led to facial differentiation in monkey evolution.
+Share:
+Total shares:  
+FULL STORY
+Computers are able to use monkey facial patterns not only to correctly identify species, but also distinguish individuals within species, a team of scientists has found in a study of guenon monkeys (above).
+Credit: Image courtesy of George Perry
+Computers are able to use monkey facial patterns not only to correctly identify species, but also distinguish individuals within species, a team of scientists has found in a study of guenon monkeys (above).
+Credit: Image courtesy of George Perry
+Close
+Computers are able to use monkey facial patterns not only to correctly identify species, but also distinguish individuals within species, a team of scientists has found. Their findings, which rely on computer algorithms to identify guenon monkeys, suggest that machine learning can be a tool in studying evolution and help to identify the factors that have led to facial differentiation in monkey evolution.
+"Studying the cues that species use to discriminate each other often poses a challenge to scientists," explains James Higham, an assistant professor of anthropology at New York University and one of authors of the study, which appears in the journal Proceedings of the Royal Society B. "Many species are now rare and, in the case of these particular monkeys, they live high in the rainforest canopy, so are very difficult to reach."
+"Driving our study was the premise that if a characteristic such as individual identity can be classified reliably from physical appearance, or what we call 'visual signals', then these signals may have evolved in part for the purpose of communicating this characteristic," says study author William Allen, who undertook the work while at NYU, but who is now a post-doctoral researcher at the University of Hull (UK).
+"We sought to test a computer's ability to do something close to what a guenon viewing other guenons' faces would do," adds Allen. "We did so by taking measurements of visual attributes from photographs of guenon faces and asking a computer to try and separate different groups as accurately as possible on the basis of these measurements."
+Their study relied on more than 500 photographs of 12 species of guenons collected in various settings: in zoos in the United States and the United Kingdom and in a wildlife sanctuary in Nigeria. The guenons, the authors note, are a particularly interesting and visually striking group to study, with many closely related species that exhibit a remarkable diversity of colorful patterned faces.
+The analysis focused on specific guenon visual signals -- facial patterns generally as described using the 'eigenface' technique, a method used in computer vision for human facial recognition, as well as eyebrow patches and nose spots segmented from images. From here, the researchers tested whether or not an algorithm could accurately accomplish the following: identify individual guenons, classify them by species from among the 12 in the sample, and determine the age and sex of each individual.
+Their results showed that the computer could employ both overall facial pattern and eyebrow patches and nose spots to correctly categorize species and identify individuals, but not their age or sex.
+"The reason that machine learning cannot classify age and sex is because facial patterns do not seem to be different between males and females and do not seem to change as individuals age," observes Higham. "This suggests that conveying these characteristics to others has not been an important factor in the evolution of guenon appearance."
+"In contrast, the fact that species and individual identity can both be reliably classified suggests that the ability to indicate these things to others has been a strong factor in the evolution of guenon faces," he adds. "More broadly, these results demonstrate that faces are highly reliable for classification by species and that visual cues have played an important role in the radiation of this group into so many different species."
+Story Source:
+The above story is based on materials provided by New York University . Note: Materials may be edited for content and length.
+Journal Reference:
+W. L. Allen, J. P. Higham. Assessing the potential information content of multicomponent visual signals: a machine learning approach. Proceedings of the Royal Society B: Biological Sciences, 2015; 282 (1802): 20142284 DOI: 10.1098/rspb.2014.2284
+Cite This Page:
+New York University. (2015, February 3). Machine learning offers insights into evolution of monkey faces, researchers find. ScienceDaily. Retrieved May 7, 2015 from www.sciencedaily.com/releases/2015/02/150203204258.htm
+New York University. "Machine learning offers insights into evolution of monkey faces, researchers find." ScienceDaily. www.sciencedaily.com/releases/2015/02/150203204258.htm (accessed May 7, 2015).
+Share This Page:
+updated 12:56 pm ET
+May 7, 2015  A new study shows that cichlid fish reared in larger social groups from birth display a greater and more extensive range of ... read more
+Oct. 15, 2012  Research is helping reveal how human and primate brains process and interpret facial expressions, and the role of facial mimicry in everything from deciphering an unclear smile to establishing ... read more
+Sep. 12, 2012  Researchers have identified a new species of African monkey, locally known as the lesula. This is only the second new species of African monkey discovered in the last 28 ... read more
+Strange & Offbeat
+Get the latest science news with ScienceDaily's free email newsletters, updated daily and weekly. Or view hourly updated newsfeeds in your RSS reader:
+Mobile Apps
+Get the latest news from ScienceDaily via our free mobile apps, available for download on the following platforms:
+Have Feedback?
+Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?
+Copyright 2015 ScienceDaily or by third parties, where indicated. All rights controlled by their respective owners.
+Content on this website is for information only. It is not intended to provide medical or other professional advice.

@@ -1,0 +1,55 @@
+How Facebook sees you: Artist creates computer-generated 'monster' faces that reveal what machines see
+Artist wrote algorithm to create faces based on real features from images
+Reveals the odd signs computer use to recognise a human face 
+483 shares
+They look strangely alien, with barely recognisable features and bizarre bumps and lumps.
+Yet this is the way Facebook - and other computer recognition systems - see humans.
+A California artist created the faces artificially to show the 'essence' of a face in the electronic age.
+Crispin analyses face patterns from data sets, then 'evolves' a two-dimensional image from the composite, finally rendering it in 3-D to create these unique 'monster' faces.
+HOW HE DID IT
+Crispin gathers face patterns from data sets if faces freely available, then 'evolves' a two-dimensional image from the composite, finally rendering it in 3-D.
+He stops the iterative process before the algorithm has created a perfect face, resulting in the strange mutations of his images. 
+The images, he says, might have 'somebody's eyebrow, somebody else's chin.'
+'The way modern facial detection works is that it scans through a huge database of faces, then learns which features are necessary to describe what's common,' Sterling Crispin told MailOnline.
+'You end up with these strange abstracted notions of what a human would be.'
+Crispin gathers face patterns from data sets if faces freely available, then 'evolves' a two-dimensional image from the composite, finally rendering it in 3-D.
+He stops the iterative process before the algorithm has created a perfect face, resulting in the strange mutations of his images. 
+'I built a system that uses genetic algorithms and evolves 3D shapes evolves towards a face,' he said.
+'You have randomly created faces that run through an algorithm to gradually evolve. 
+RELATED ARTICLES
+Share
+'With enough time it would come close to a human face.' 
+Facebook uses a system called deepface, they find a face then measure 67 different control points ans they have an average 3D model which they warp into your face.
+'They also do this kind of reduction and abstraction,' Crispin said.
+Crispin stops the iterative process before the algorithm has created a perfect face, resulting in the strange mutations of his images.
+'If you have a huge database of millions of people, you have to simplify how you represent each person so the database can be efficently searched, and that ends up reducing what it is to be human. 
+However, Crispin admits his work has have some unexpected outcomes.
+'These facial recognition systems are interesting, but dangerous - some of these faces seem to have personality, and some are creepy.
+'It shows the spirit in the machine.' 
+'It's interesting, but dangerous - some of these faces seem to have personality, and some are creepy,' said Crispin.
+The artist is now experimenting with real masks based on the algorithms.
+The technique 'evolves' a two-dimensional image (bottom row) , finally rendering it in 3-D (top row)
+The faces is 'like looking at a ghost; it's very disturbing,' Crispin told Medium . 
+The algorithm came up with the Sphinx-like grin on its own.
+'Some of them are less recognizable,' Crispin says. In the series, 'a face-recognition algorithm would think it's a face 99 percent of the time, but a person wouldn't respond at all.' 
+When we sacrifice our identities to machines, 'the kind of softness, the part that's really human, is lost in all of this,' Crispin says. With the strange visages of the masks, 'you're not looking at some foreign, abstract other that's somehow outside of you; you're looking at yourself.'
+HOW FACEBOOK SPOTS A FACE
+Facebook has created an algorithm that can pick a face out of a crowd almost as accurately as a human.
+Called DeepFace, it uses technology the firm bought when it acquired Israeli startup face.com last year.
+Its creators say it pick a face out of a crowd with 97.25 per cent accuracy.
+Facebook's DeepFace uses a 3-D model to rotate faces, virtually, so that they face the camera. Image (a) shows the original image, and (g) shows the final, corrected version which the software can then attempt to recognise.
+DeepFace uses a 3-D model to rotate faces, virtually, so that they face the camera. Image (a) shows the original image, and (g) shows the final, corrected version which the software can then attempt to recognise.
+Yaniv Taigman and colleagues at Facebook's AI lab found a way to build a 3D model of a face from a photo that can be rotated into the best position for the algorithm to start matching.
+ 
+ 
+Read more:
+483
+shares
+We are no longer accepting comments on this article.
+Who is this week's top commenter? Find out now
+More top stories
+DON'T MISS
+ 
+ 
+Published by Associated Newspapers Ltd
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group

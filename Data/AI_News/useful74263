@@ -1,0 +1,73 @@
+2015-05-06 09:07:45
+2015-05-05 09:15:35
+2015-05-06 21:52:36
+2015-05-06 17:10:24
+2015-05-07 08:55:24
+Featuring fresh takes and real-time analysis from HuffPost's signature lineup of contributors
+Hot on the Blog
+Posted:
+Cognitive computing is an approach rather than a specific capability. Cognitive mimics human perception, synthesis, and reasoning capabilities by applying human-like machine-learning methods to discern, assess, and exploit patterns in everyday data. It's a natural for automating text, speech, and image processing and dynamic human-machine interactions.
+IBM is big on cognitive . The company's recent AlchemyAPI acquisition  is only the latest of many moves in the space. This particular acquisition adds market-proven text and image processing, backed by deep learning, a form of machine learning that resolves features at varying scales, to the IBM Watson technology stack. But IBM is by no means the only company applying machine learning to natural language understanding, and it's not the only company operating under the cognitive computing banner.
+Digital Reasoning is an innovator in natural language processing and, more broadly, in cognitive computing. The company's tag line:
+We build software that understands human communication -- in many languages, across many domains, and at enormous scale. We help people see the world more clearly so they can make a positive difference for humanity.
+Tim Estes founded Digital Reasoning in 2000 , focusing first on military/intelligence applications and, in recent years, on financial markets and clinical medicine. Insight in these domains requires synthesis of facts from disparate sources. Context is key.
+The company sees its capabilities mix as providing a distinctive interpretive edge in a complex world, as will become clear as you read Tim's responses in an interview I conducted in March, to provide material for my recent  Text Analytics 2015 state-of-the-industry article. Digital Reasoning has, in the past, identified as a text analytics company. Maybe not so much any more.
+Call the interview --
+Digital Reasoning Goes Cognitive: CEO Tim Estes on Text, Knowledge, and Technology
+Seth Grimes: Let's start with a field that Digital Reasoning has long supported, text analytics. What was new and interesting in 2014?
+Tim Estes: Text analytics is dead, long live the knowledge graph.
+Seth: Interesting statement, both parts. How's text analytics dead?
+Tim: I say this partially in jest: Text analytics has never been needed more. The fact is, the process of turning text into structured data is now commoditized and fragmented. As a component business, it's no longer interesting, with the exits of Attensity and Inxight, and the lack of pure plays.
+I don't think the folks at Attensity are aware they've exited, but in any case, what's the unmet need and how is it being met, via knowledge graphs and other technologies?
+What is replacing text analytics is a platform need, the peer of the relational database, to go from human signals and language into a knowledge graph. The question leading enterprises are asking, especially financial institutions, is how do we go from the unstructured data on our big data infrastructure to a knowledge representation that can supply the apps I need? That's true for enterprises, whether [they've implemented] an on-premise model (running on a Hadoop stacks required by large banks or companies, with internal notes and knowledge) or a cloud model with an API.
+You're starting to get a mature set of services, where you can put data in the cloud, and get back certain other meta data. But they're all incomplete solutions because they try to annotate data, creating data on more data -- and a human can't use that. A human needs prioritized knowledge and information -- information that's linked by context across everything that occurs. So unless that data can be turned into a system of knowledge, the data is of limited utility, and all the hard work is left back on the client.
+Building a system of knowledge isn't easy!
+The government tried this approach, spending billions of dollars across various projects doing it that way, and got very little to show for it. We feel we're the Darwinian outcome of billions of dollars of government IT projects.
+Now companies are choosing between having their own knowledge graphs or whether to trust a third-party knowledge graph provider, like Facebook or Google. Apple has no knowledge graph so it doesn't offer a real solution because you can't process your data with it so it is behind the market leaders. Amazon has the biggest platform but they also have no knowledge graph and no ability to process your data in as a service, so it also has a huge hole. Microsoft has the tech and is moving ahead quickly but the leader is Google, with Facebook is a fast follower.
+That's them. What about us, the folks who are going to read this interview?
+On the enterprise side, with on-premise systems, there are very few good options to go from text to a knowledge graph. Not just tagging and flagging. And NLP (natural language processing) is not enough. NLP is a prerequisite.
+You have to get to the hard problem of connecting data, lifting out what's important. You want to get data today and ask questions tomorrow, and get the answers fast. You want to move beyond getting information about the patterns you had in the NLP today that detected what passed through it. That involves static lessons-learned, baked into code and models. The other provides a growing vibrant base of knowledge that can be leveraged as human creativity desires.
+So an evolution from static to dynamic, from baseline NLP to...
+I think we'll look back at 2014, and say, "That was an amazing year because 2014 was when text analytics became commoditized at a certain level, and you had to do much more to become valuable to the enterprise. We saw a distinct move from text analytics to cognitive computing." It's like selling tires versus selling cars.
+Part-way solutions to something more complete?
+It's not that people don't expect to pay for text analytics. It's just that there are plenty of open source options that provide mediocre answers for cheap. But the mediocre solutions won't do the hard stuff like find deal language in emails, much less find deal language among millions of emails among tens of billions of relationships, that can be queried in real time on demand and ranked by relevance and then supplied in a push fashion to an interface. The latter is a solution that provides a knowledge graph while the former is a tool. And there's no longer much business in supplying tools. We've seen competitors, who don't have this solution capability, look to fill gaps by using open source tools, and that shows us that text analytics is seen as a commodity. As an analogy, the transistor is commoditized but the integrated circuit is not. Cognitive computing is analogous to the integrated circuit.
+What should we expect from industry in 2015?
+Data accessibility. Value via applications. Getting smart via analytics.
+The enterprise data hub is interactive, and is more than a place to store data. What we've seen in the next wave of IT, especially for the enterprise, is how important it is to make data easily accessible for analytic processing.
+But data access alone doesn't begin to deliver value. What's going on now, going back to mid-2013, is that companies haven't been realizing the value in their big data. Over the next year, you're going to see the emergence of really interesting applications that get at value. Given that a lot of that data is human language, unstructured data, there's going to be various applications that use it.
+You're going to have siloed applications. Go after a use case and build analytic processing for it or start dashboarding human language to track popularity, positive or negative sentiment -- things that are relatively easy to track. You're going to have more of these applications designed to help organizations because they need software that can understand X about human language so they can tell Y to the end user. What businesses need are applications built backwards from the users' needs.
+But something's missing. Picture a sandwich. Infrastructure and the software that computes and stores information are the bottom slice and workflow tools and process management are the top slice. What's missing is the meat -- the brains. Right now, there's a problem for global enterprises: You have different analytics inside every tool. You end up with lots of different data warehouses that can't talk to each other, silo upon silo upon silo -- and none of them can learn from another. If you have a middle layer, one that is essentially unified, you have use cases that can get smarter because they can learn from the shared data.
+You mentioned unstructured data in passing...
+We will see more ready utilization of unstructured data inside applications. But there will be very few good options for a platform that can turn text into knowledge this year. They will be inhibited by two factors: 1) The rules or the models are static and are hard to change. 2) The ontology of the data and how much energy it takes to fit your data into the ontology. Static processing and mapping to ontologies.
+Those problems are both alleviated by cognitive computing. Our variety builds the model from the data -- there's no ontology. That said, if you have one, you can apply it to our approach and technology as structured data.
+So that's one element of what you're doing at Digital Reasoning, modeling direct from data, ontology optional. What else?
+With us, we're able to expose more varieties of global relationships from the data. We aim for it to be simple to teach the computer something new. Any user -- with a press of a button and a few examples -- can teach the system to start detecting new patterns. That should be pretty disruptive. And we expect to move the needle in ways that people might not expect to bring high quality out of language processing -- near human-level processing of text into people, places, things and relationships. We expect our cloud offering to become much more mature.
+Any other remarks, concerning text analytics?
+Microsoft and Google are duking it out. It's an interesting race, with Microsoft making significant investments that are paying off. Their business model is to create productivity enhancements that make you want to keep paying them for their software.They have the largest investment in technology so it will be interesting to see what they come up with. Google is, of course, more consumer oriented. Their business model is about getting people to change their minds. Fundamentally different business models, with one leaning towards exploitation and the other leading to more productivity, and analytics is the new productivity.
+And think prioritizing and algorithms that work for us --
+You might read 100 emails a day but you can't really think about 100 emails in a day -- and that puts enormous stress on our ability to prioritize anything. The counterbalance to being overwhelmed by all this technology -- emails, texts, Facebook, Twitter, LinkedIn, apps, etc. -- available everywhere (on your phone, at work, at home, in your car or on a plane) -- is to have technology help us prioritize because there is no more time. Analytics can help you address those emails. We're being pushed around by algorithms to connect people on Facebook but we're not able to savor or develop friendships. There's a lack of control and quality because we're overwhelmed and don't have enough time to concentrate.
+That's the problem statement. Now, it's about time that algorithms work for us, push the data around for us. There's a big change in front of us.
+I agree! While change is a constant, the combination of opportunity, talent, technology, and need are moving us faster than ever.
+Thanks, Tim, for the interview.
+Disclosure: Digital Reasoning was one of eight sponsors of my study and report, Text Analytics 2014: User Perspectives on Solutions and Providers . While Digital Reasoning's John Liu will be speaking, on Financial Markets and Trading Strategies, at the July 2015 Sentiment Analysis Symposium in New York, that is not a paid opportunity.
+Follow Seth Grimes on Twitter: www.twitter.com/SethGrimes
+More:
+Conversations
+Options
+Technology
+Get top stories and blog posts emailed to me each day..
+Facebook
+HuffPost
+Technology
+Twitter
+HuffPost
+Follow
+Technology
+Follow
+Part of AOL Tech
+Use this form to alert a HuffPost editor about a factual or typographical error in this story.
+Notify message
+Describe the error here (1,000 character limit)
+* Type the words below so we know you are not a cyborg
+Sign me up for The Morning Email
+Thanks for your report!

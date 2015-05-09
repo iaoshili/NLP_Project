@@ -1,0 +1,10 @@
+Brains learn better and forget less when connections are clustered
+By Alexandra Ossola posted Apr 2nd, 2015 at 2:01pm
+0
+Our brains are complex organs, separated into many parts and units for different functions and computations. According to new research published today in PLOS Computational Biology , this compartmental complexity is what helps us learn new information and retain it for longer. The researchers say these findings may help improve the neural networks involved in artificial intelligence, helping robots learn new skills and remember old ones longer.
+Lots of robots have artificial neural pathways, used for things like facial recognition and complex disease diagnosis . When one of these robots learns a new skill, the pathways create new connections to accommodate the new information. Here's what it looks like to learn a skill in typical artificial brain:
+Learning Skill A non modular
+Learning Skill B non modular
+The result is what artificial intelligence experts call a “catastrophic forgetting,” where robots can’t learn more than one skill at a time without un-learning another.
+Human and animal brains don’t work that way, however, because of how our brains are structured. Having lots of “modules”--or clumps of highly connected neurons separated by areas with sparse connections--means that the brain doesn’t have to overwrite one set of connections to make another. They exist independently.
+Learning Skills A and B with high modularity

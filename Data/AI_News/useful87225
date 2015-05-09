@@ -1,0 +1,38 @@
+or browse the topics below:
+or browse the topics below:
+or browse the topics below:
+or browse the topics below:
+Artificially intelligent robot scientist 'Eve' could boost search for new drugs
+Date:
+Summary:
+Eve, an artificially intelligent 'robot scientist' could make drug discovery faster and much cheaper, say researchers writing in the Royal Society journal Interface. The team has demonstrated the success of the approach as Eve discovered that a compound shown to have anti-cancer properties might also be used in the fight against malaria.
+Share:
+Close
+Eve, an artificially-intelligent 'robot scientist' could make drug discovery faster and much cheaper, say researchers writing in the Royal Society journal Interface. The team has demonstrated the success of the approach as Eve discovered that a compound shown to have anti-cancer properties might also be used in the fight against malaria.
+Robot scientists are a natural extension of the trend of increased involvement of automation in science. They can automatically develop and test hypotheses to explain observations, run experiments using laboratory robotics, interpret the results to amend their hypotheses, and then repeat the cycle, automating high-throughput hypothesis-led research. Robot scientists are also well suited to recording scientific knowledge: as the experiments are conceived and executed automatically by computer, it is possible to completely capture and digitally curate all aspects of the scientific process.
+In 2009, Adam, a robot scientist developed by researchers at the Universities of Aberystwyth and Cambridge, became the first machine to independently discover new scientific knowledge. The same team has now developed Eve, based at the University of Manchester, whose purpose is to speed up the drug discovery process and make it more economical. In the study published today, they describe how the robot can help identify promising new drug candidates for malaria and neglected tropical diseases such as African sleeping sickness and Chagas' disease.
+"Neglected tropical diseases are a scourge of humanity, infecting hundreds of millions of people, and killing millions of people every year," says Professor Steve Oliver from the Cambridge Systems Biology Centre and the Department of Biochemistry at the University of Cambridge. "We know what causes these diseases and that we can, in theory, attack the parasites that cause them using small molecule drugs. But the cost and speed of drug discovery and the economic return make them unattractive to the pharmaceutical industry.
+"Eve exploits its artificial intelligence to learn from early successes in her screens and select compounds that have a high probability of being active against the chosen drug target. A smart screening system, based on genetically engineered yeast, is used. This allows Eve to exclude compounds that are toxic to cells and select those that block the action of the parasite protein while leaving any equivalent human protein unscathed. This reduces the costs, uncertainty, and time involved in drug screening, and has the potential to improve the lives of millions of people worldwide."
+Eve is designed to automate early-stage drug design. First, she systematically tests each member from a large set of compounds in the standard brute-force way of conventional mass screening. The compounds are screened against assays (tests) designed to be automatically engineered, and can be generated much faster and more cheaply than the bespoke assays that are currently standard. This enables more types of assay to be applied, more efficient use of screening facilities to be made, and thereby increases the probability of a discovery within a given budget.
+Eve's robotic system is capable of screening over 10,000 compounds per day. However, while simple to automate, mass screening is still relatively slow and wasteful of resources as every compound in the library is tested. It is also unintelligent, as it makes no use of what is learnt during screening.
+To improve this process, Eve selects at random a subset of the library to find compounds that pass the first assay; any 'hits' are re-tested multiple times to reduce the probability of false positives. Taking this set of confirmed hits, Eve uses statistics and machine learning to predict new structures that might score better against the assays. Although she currently does not have the ability to synthesise such compounds, future versions of the robot could potentially incorporate this feature.
+Professor Ross King, from the Manchester Institute of Biotechnology at the University of Manchester, says: "Every industry now benefits from automation and science is no exception. Bringing in machine learning to make this process intelligent -- rather than just a 'brute force' approach -- could greatly speed up scientific progress and potentially reap huge rewards."
+To test the viability of the approach, the researchers developed assays targeting key molecules from parasites responsible for diseases such as malaria, Chagas' disease and schistosomiasis and tested against these a library of approximately 1,500 clinically approved compounds. Through this, Eve showed that a compound that has previously been investigated as an anti-cancer drug inhibits a key molecule known as DHFR in the malaria parasite. Drugs that inhibit this molecule are currently routinely used to protect against malaria, and are given to over a million children; however, the emergence of strains of parasites resistant to existing drugs means that the search for new drugs is becoming increasingly more urgent.
+"Despite extensive efforts, no one has been able to find a new antimalarial that targets DHFR and is able to pass clinical trials," adds Professor King. "Eve's discovery could be even more significant than just demonstrating a new approach to drug discovery."
+The research was supported by the Biotechnology & Biological Sciences Research Council and the European Commission.
+Story Source:
+The above story is based on materials provided by University of Cambridge . The original story is licensed under a Creative Commons Licence . Note: Materials may be edited for content and length.
+Cite This Page:
+University of Cambridge. (2015, February 3). Artificially intelligent robot scientist 'Eve' could boost search for new drugs. ScienceDaily. Retrieved May 7, 2015 from www.sciencedaily.com/releases/2015/02/150203204453.htm
+University of Cambridge. "Artificially intelligent robot scientist 'Eve' could boost search for new drugs." ScienceDaily. www.sciencedaily.com/releases/2015/02/150203204453.htm (accessed May 7, 2015).
+Share This Page:
+updated 12:56 pm ET
+Strange & Offbeat
+TECHNOLOGY
+Get the latest science news with ScienceDaily's free email newsletters, updated daily and weekly. Or view hourly updated newsfeeds in your RSS reader:
+Mobile Apps
+Get the latest news from ScienceDaily via our free mobile apps, available for download on the following platforms:
+Have Feedback?
+Tell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?
+Copyright 2015 ScienceDaily or by third parties, where indicated. All rights controlled by their respective owners.
+Content on this website is for information only. It is not intended to provide medical or other professional advice.

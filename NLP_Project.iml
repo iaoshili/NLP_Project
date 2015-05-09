@@ -14,5 +14,6 @@
     <orderEntry type="library" exported="" name="stanford-ner-3.5.1-javadoc" level="project" />
     <orderEntry type="library" exported="" name="stanford-corenlp-3.5.1" level="project" />
     <orderEntry type="library" exported="" name="json-simple-1.1.1" level="project" />
+    <orderEntry type="library" exported="" name="boilerpipe-1.2.0" level="project" />
   </component>
 </module>

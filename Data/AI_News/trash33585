@@ -1,0 +1,37 @@
+Maps built from UAV images are transforming everything from anti-poaching efforts to cemetery management
+By Andrew Rosenblum posted Dec 22nd, 2014 at 3:03pm
+0
+Rhinos
+Patrick Meier
+Two rhinos at the Kuzikus Nature Reserve in Namibia, photographed by drone.
+When the U.S. military needed to identify mines in a dangerous valley in Afghanistan, aerial-imagery specialist Tudor Thomas helped build a plane-based system to map it. The project wasn’t cheap. Back in 2013, similar systems cost the military and its contractors one to five million dollars, Thomas says—and that didn’t even include the cost of the plane. “It’s hard to comprehend how much was getting spent just to make a simple aerial image,” he says.
+The experience sparked an idea for a business: mapping by drone. Customers could rent or buy unmanned aerial vehicles (UAVs) to take photos (in fact, many were already doing just that). Then Thomas and his team would handle the tricky software process of “stitching” together the single-frame images, taken from different points in the sky, into a unified map. A cloud-based software tool would correct images shot from different angles and blend them to provide a single perspective, a process known as “orthorectification.” If the user carefully entered the GPS readings of a few ground control points on the unstitched photos, additional software would add real-world location data to create a “geo-referenced” map.
+Thomas's UAV sales company, Drones Made Easy, launched the service in the form of an app after a successful Kickstarter campaign in August. Called Maps Made Easy , the app immediately found an audience among land surveyors, but it’s aimed at hobbyists too. “If you go onto Google Maps and you look at your house,
+[the image]
+may be 4 years old,” Thomas says. “And chances are, you’re not going to be able to resolve any detail above three feet—a car is two pixels.” With drones, users can produce recent maps with a resolution up to 20 times better than Google Earth.
+Moore’s Law Hits Aerial Photography
+Geologist Larry Hulbert recently used Maps Made Easy to stitch together imagery of land he was surveying in Quebec, Canada for deposits of nickel, copper, or platinum. Using footage shot from a helicopter, Hulbert used the Maps Made Easy image-processing tool to create a thin 7 km x .3 km map for just $44. The price was more than right -- and though the process of gathering location data was complicated, the geologist was also impressed because his standard map-making software struggles with long and skinny tracts of land.
+But there was another big cost in the project. The helicopter and pilot time ran $1,800/hour.  The price was so high that Hulbert felt rushed and pressured when shooting, since he didn’t want to make a second pass when “the meter was running.”
+“In a couple of hours, I could have bought a drone,” Hulbert says.
+He now plans to acquire his own photography UAV to further reduce expenses. “Drone technology is really changing the industry I work in,” Hulbert says. “But anyone can buy a drone and take pictures—it’s putting them all together that’s the breakthrough technology.”
+Levant Tin Mine in Trewellard, Cornwall, UK
+Maps Made Easy
+Drone Humanitarians
+Patrick Meier, the director of social innovation at the Qatar Computing Research Institute, has likewise realized the importance of effective drone-mapping software. He spearheaded an effort in which drones made 90 flights in search of endangered black rhinos and other animals at Namibia’s Kuzikus Wildlife Reserve. (With poaching driven by demand for horn largely from Asia, the world rhino population has  declined precipitously. There are roughly 29,000 rhinos in the wild, down from 70,000 in 1970 and 500,000 in 1900).
+“For rangers on the ground, it’s equally important to know where there are no animals,” says Meier. “It reduces the area that you have to cover.” But the sheer mass of footage stuck park rangers with the daunting task of searching through more than 25,000 drone-shot images by hand.
+In September, Meier turned to crowdsourcing, asking volunteers to look through the photos and draw white outlines around the animals they found. Roughly 500 “digital rangers” from around the world analyzed 98 percent of the images in just 48 hours. With computer scientists at the University of Lausanne, Switzerland, Meier is also exploring the use of artificial-intelligence algorithms to automate the process.
+Meier plans to use both tools—crowdsourcing and A.I.—to search footage of typhoon-stricken areas in the Philippines. His goal is to document the level of damage to coconut trees, an agricultural staple there. Because machine-learning algorithms get better by processing a large number of samples, the density of coconut trees in the Philippines should improve his software in a way that a landscape with endangered animals can’t.
+Experts in conservation and disaster relief, who have used satellite imagery for most of the past two decades, welcome the rise of drone mapping. “If you talk to humanitarians in the field, and tell them that we can get you data faster, at a higher resolution, and at a far cheaper price, it’s a complete no-brainer,” says Meier.
+Deansgrange Cemetery
+PlotBox
+An overhead image of the Deansgrange Cemetery in Ireland, part of 74 acres of grave sites managed by Dun Laoghaire Rathdown County Council using paper records.
+Knowing Where the Bodies Are Buried
+Such a tool could also benefit a range of other professions—including cemetery surveyors. In Northern Ireland, Sean and Leona McAllister co-founded a drone-enabled cemetery-management tool named PlotBox that he likes to think of as “Salesforce for cemetery managers.” Many cemeteries still rely on decades worth of paper records of funerals and available burial plots that may not correctly correspond to existing maps of the property.
+A drone has cut the surveying time for a 12-acre property from 100 hours down to about 2.
+“There’s no real technology in this industry that’s doing it well,” says McAllister. “And you can’t manage thousands of plots and not know where they’re at in relation to your data.”
+The (relatively) old-fashioned way of updating a cemetery map was to send a surveyor like Sean McAllister out into the graveyard and take GPS readings at each corner of every grave. Then the surveyor would make sure the map coordinates matched up with cemetery records about whether the grave was occupied and by whom. A 12-acre cemetery would typically require a solid 100 hours of surveying work.
+Using a drone, McAllister has cut the surveying time for a 12-acre property down to about 2 hours. By placing markers on the ground as reference points, he can quickly generate a geo-referenced map. Using a proprietary data aggregation tool in PlotBox, he can then correctly link the cemetery records to the thousands of plots in the graveyard.
+“We’re bringing
+into the realm of the cemetery,” says McAllister, “but sensitively.”
+You might even say that, when it comes to drone mapping, the sky’s the limit.
+A version of this article was originally published in the January 2015 issue of Popular Science, under the title "Drone-Made Maps."

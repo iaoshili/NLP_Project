@@ -1,0 +1,30 @@
+▲
+  
+
+MIT's Picture language could be worth a thousand lines of code
+Now that machine-learning algorithms are moving into mainstream computing, the Massachusetts Institute of Technology is preparing a way to make it easier to use the technique in everyday programming.
+In June, MIT researchers will present a new programming language, called Picture, that could radically reduce the amount of coding needed to help computers recognize objects in images and video. It is a prototype of how a relatively novel form of programming, called probabilistic programming, could reduce the amount of code needed for such complex tasks.
+In one test of the new language, the researchers were able to cut thousands of lines of code in one image recognition program down to fewer than 50. They plan to present the results at the Computer Vision and Pattern Recognition conference in June
+With probabilistic programming, “we’re building models of what faces look like in general, and use them to make pretty good guesses about what face we’re seeing for the first time,” said Josh Tenenbaum, an MIT professor of computational cognitive science who assisted in the work.
+MIT
+MIT's new work in probabilistic programming allows a computer to recognize a face through inference.
+A new twist
+Picture uses statistical inference to cut away much of the basic computational work needed for computer vision. It works much like the inverse to computer animation. Computer graphics programs, such as those used by Pixar and other animation companies, make two-dimensional representations of three-dimensional objects, given a relatively small amount of instruction from programmers. The Picture language works in the opposite direction. It can recognize an object within a two-dimensional image by comparing it to a set of models of what the objects could be.
+The work stems from a program that the U.S. Defense Advanced Research Projects Agency launched in 2013 to develop probabilistic programming languages to further facilitate the use of machine learning .
+Although an academic pursuit for decades, machine learning is quickly becoming a feasible technique for commercial use, thanks to more powerful computers and new cloud machine learning services offered by Amazon Web Services and Microsoft Azure .
+Although probabilistic programming does not require machine learning to work, it can provide a way to streamline the use of machine learning, Tenenbaum said.
+“In pure machine learning, you drive performance increases by just collecting more and more data and just letting machine learning do the work,” Tenenbaum said. In probabilistic programming, “the underlying system is more knowledge-based, using the causal process of how images are formed,” Tenenbaum said.
+Picture is one of a number of different probabilistic programming languages that MIT is currently working on. Another, more general-use, probabilistic programming language from the team, called Venture , can be used to solve other kinds of problems, Tenenbaum said.
+Joab Jackson covers enterprise software and general technology breaking news for the IDG News Service, and is based in New York.
+recommended for you
+Comments
+To:
+From
+reCAPTCHA
+Sorry
+Latest Videos
+May 4, 2015 2:00 AM
+High-tech cars aren't just about parking assist and electric motors. Listen to Ford CTO Raj Nair geek out on lightweight materials and aerodynamics you've never seen in a production car.
+READ THE RELATED ARTICLE:<
+Subscribe to the Daily Downloads Newsletter
+By submitting your email address you are consenting to receive email notifications from IDG. You may withdraw your consent at any time. Please refer to our privacy policy for more information.

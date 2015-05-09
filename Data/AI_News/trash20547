@@ -1,0 +1,14 @@
+18 November 2014
+From the section Technology
+The software describes the picture as: Two pizzas sitting on top of a stove top oven
+Scientists at Google have created artificial intelligence software that can describe the contents of photographs far more accurately than ever before.
+The software's description of pictures was similar to that written by a human.
+As well as making it easier to search for images, the software could be used to help blind people understand pictures better, Google said.
+Stanford University has also announced a breakthrough in the same field.
+The machine-learning software developed by Google used two neural networks - one which deals with image recognition, the other with natural language processing.
+Software description: A group of young people playing a game of frisbee
+Neural networking is a computational model that mimics some of the same architecture used in the brain. Such systems have a series of interconnected neurons which can take information from a variety of sources and are also capable of learning.
+The neural network developed by Google was the work of four scientists - Oriol Vinyals, Alexander Toshev, Samy Bengio and Dumitru Erhan.
+"A picture may be worth a thousands words," they wrote on the Google Research blog.
+"But sometimes it's the words that are the most useful - so it's important we figure out ways to translate from images to words automatically and accurately."
+Two years ago Google researchers created image-recognition software and showed it 10 million images taken from YouTube videos. After three days the programme had taught itself how to pick out pictures of cats.

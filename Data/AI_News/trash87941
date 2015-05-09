@@ -1,0 +1,28 @@
+Connect
+Recent Posts
+Popular Posts
+Full Bio
+Teradata helps companies get more value from data than any other company. Our big data analytic solutions, integrated marketing applications, and team of experts can help your company gain a sustainable competitive advantage with data.  Teradata helps organizations leverage all their data so they can know more about their customers and business and do more of what’s really important. Visit teradata.com.
+Forbes BrandVoice™ allows marketers to     connect directly with the Forbes audience by enabling them to create     content – and participate in the conversation – on the Forbes digital publishing     platform. Each BrandVoice™ is produced     by the marketer. More on BrandVoice™ here , or email us directly at brandvoice@forbes.com .
+Opinions expressed by Forbes BrandVoice™ Contributors are their own.
+Which Tool For Big Data: DIY Or Point And Shoot?
+When it comes to digital photography, there are two basic approaches: point and shoot or do it yourself (DIY). Reflecting on these approaches, I find some similarity to selecting a tool for big data projects.
+With point and shoot cameras, engineering is invested in features that enable users with little technical knowledge of photography to point and shoot. In a sense, the data warehouse is like a point and shoot camera. It takes preparation to load data into a data warehouse, but once that work is done, many people can use the data.
+The DIY approach to big data is represented by Hadoop. With Hadoop, it’s expected that users will come to their task with considerable technical background; in fact, Hadoop users are often programmers. No one expects nontechnical users to walk up to Hadoop and start analyzing data.
+There are valid uses for each approach—often within the same organization. Here are a few dimensions to consider as we explore big data through the lens of digital photography.
+Point and Shoot: Supports Sharing the Data
+If data is shared widely, people need a common understanding of precisely what each data element means, as well as where it came from and how it was derived. This common vocabulary for data can prevent those endless debates about exactly what a particular number means.
+This is a job for the data warehouse. By modeling data in advance and thereby agreeing on the meaning of elements like revenue, income, and sales, data can be used by a broad group of users with a common understanding. Data governance takes time, but it also ensures that there’s a common language that supports broad sharing of data.
+With Hadoop, the approach to data is often more exploratory and upfront modeling is not necessary. If data in Hadoop is going to be shared broadly, it’s worth the effort to model it and load it into the data warehouse.
+Point and Shoot: Supports Concurrency
+Concurrency refers to how many people can access data simultaneously. Data warehouses are designed to support 500, 1000, and even 10,000 concurrent users. The open source community is working to expand the number of simultaneous users on Hadoop, but at the moment Hadoop has been optimized for about 16 concurrent users.
+Point and Shoot: Handles Workload Management
+Workload management, a feature of data warehouses, allows important jobs from individuals and departments to be prioritized over less important tasks. This ensures that users who need faster response to their queries get the response times they require. Workload management in effect keeps jobs moving through the data warehouse, ensuring that large, slow moving trucks don’t bog down the passing lane and bring traffic flow to a crawl. Workload management keeps queries moving. This point and shoot approach is designed to allow many users to make effective use of the data warehouse.
+DIY: Handles Complex Algorithms
+Professional photographers know how to create special effects using a variety of techniques. In the same way, the DIY architecture of Hadoop is well-suited to complex algorithms that are not sequential. Hadoop shines when applying techniques such as N-path time series, linear algebra, thousands of continuous variables, random forests, decision trees, graph mining, machine learning, and Markov chains.
+Data warehouses are designed to take massive tables of data and go through each record one at a time in sequence. This design does not lend itself to nonsequential complex algorithms.
+DIY: Good for Large Volume, Low Signal Data
+Hadoop is designed to cost-effectively deal with low-value, low-cost data, which characterizes the flow of sensor data of the Internet of Things. Given a billion sensor readings per day are loaded into Hadoop, DIY experts can sift through the data, identify outliers, and focus on the most important data. Going through a data warehouse-type process with this amount of information is neither time nor cost-efficient.
+Both the data warehouse and Hadoop have advantages. Point and shoot cameras are not for everyone, but they serve many people very well. DIY techniques take more individual expertise, and fewer people can use them. Both use cases are important. For a far more detailed comparison of Hadoop and the data warehouse, see my  Slideshare presentation.
+Enter Your Comment
+Share

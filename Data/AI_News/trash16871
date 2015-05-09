@@ -1,0 +1,27 @@
+Visually Open Nav.
+Submit
+Visit WIRED Photo for our unfiltered take on photography, photographers, and photographic journalism wrd.cm/1IEnjUH
+keoni101/Flickr
+As the Internet of Things (IoT) continues its run as one of the most popular technology buzzwords of the year, the discussion has turned from what it is, to how to drive value from it, to the tactical: how to make it work.
+IoT will produce a treasure trove of big data – data that can help cities predict accidents and crimes, give doctors real-time insight into information from pacemakers or biochips, enable optimized productivity across industries through predictive maintenance on equipment and machinery, create truly smart homes with connected appliances and provide critical communication between self-driving cars. The possibilities that IoT brings to the table are endless.
+As the rapid expansion of devices and sensors connected to the Internet of Things continues, the sheer volume of data being created by them will increase to a mind-boggling level. This data will hold extremely valuable insight into what’s working well or what’s not – pointing out conflicts that arise and providing high-value insight into new business risks and opportunities as correlations and associations are made.
+It sounds great. However, the big problem will be finding ways to analyze the deluge of performance data and information that all these devices create. If you’ve ever tried to find insight in terabytes of machine data, you know how hard this can be. It’s simply impossible for humans to review and understand all of this data – and doing so with traditional methods, even if you cut down the sample size, simply takes too much time.
+We need to improve the speed and accuracy of big data analysis in order for IoT to live up to its promise. If we don’t, the consequences could be disastrous and could range from the annoying – like home appliances that don’t work together as advertised – to the life-threatening – pacemakers malfunctioning or hundred car pileups.
+The only way to keep up with this IoT-generated data and gain the hidden insight it holds is with machine learning.
+Machine Learning Is Already In Use
+Wikipedia defines machine learning as “a subfield of computer science (CS) and artificial intelligence (AI) that deals with the construction and study of systems that can learn from data, rather than follow only explicitly programmed instructions.”
+While this may sound a bit like science fiction, it’s already present in everyday life. For example, it’s used by Pandora to determine what other songs you may like, or by Amazon.com to suggest other books and movies to you. Both are based on what has been learned about the user and are refined over time as the system learns more about your behaviors.
+In an IoT situation, machine learning can help companies take the billions of data points they have and boil them down to what’s really meaningful. The general premise is the same as in the retail applications – review and analyze the data you’ve collected to find patterns or similarities that can be learned from, so that better decisions can be made.
+For example, wearable devices that track your health are already a burgeoning industry – but soon these will evolve to become devices that are both inter-connected and connected to the internet, tracking your health and providing real-time updates to a health service.
+The goal is that your doctor would receive notification if a certain condition was met – your heart rate increased to an unsafe level, or even stopped, for example. To be able to call out potential problems, the data has to be analyzed in terms of what’s normal and what’s not. Similarities, correlations and abnormalities need to be quickly identified based on the real-time streams of data. Could this be done by an individual working at the health service – reviewing data from thousands of patients in real-time and correctly deciding when to send an emergency flag out? Not likely – writing code, or rules, to scour thru the data to find known patterns is enormously time consuming, fraught with error and limited to only identifying previously known patterns.
+In order to analyze the data immediately as it’s collected to accurately identify previously known and never-before seen new patterns, machines that are capable of generating and aggregating this big data must also be used to learn normal behaviors for each patient and track, uncover and flag anything outside the norm that could indicate a critical health issue.
+The realization of IoT depends on being able to gain the insights hidden in the vast and growing seas of data available. Since current approaches don’t scale to IoT volumes, the future realization of IoT’s promise is dependent on machine learning to find the patterns, correlations and anomalies that have the potential of enabling improvements in almost every facet of our daily lives.
+It’s time to let the machines point out where the opportunities truly are.
+Mark Jaffe is CEO of the anomaly detection company Prelert.
+Originally posted by:
+1K
+View comments
+More Uncategorized
+Submit
+Visit WIRED Photo for our unfiltered take on photography, photographers, and photographic journalism wrd.cm/1IEnjUH
+ 

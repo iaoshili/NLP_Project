@@ -1,0 +1,35 @@
+▲
+  
+
+It’s been nearly four years since investor and entrepreneur Marc Andreessen proclaimed that software is “eating the world” , and the evidence is everywhere. Full-scale transformations are being wrought upon companies and industries alike, from financial services to agriculture to advertising.
+Today, a related trend is engulfing business software, and—to borrow a phrase—it’s eating the world in a similar fashion.
+Consider a few recent announcements: SAP , Salesforce.com , Tibco Systems and Oracle have all rolled out new analytics capabilities in just the last five weeks. Last month IBM said it would pump $4 billion into several thriving technology areas, including analytics. The list of examples goes on .
+Easy-to-use data-analytics tools are becoming increasingly common, and they’re putting unprecedented business-intelligence capabilities in the hands of an increasingly broad set of users.
+“In the past, data analytics was used by a handful of people to make smarter decisions for a few business challenges,” said Brad Peters, cofounder, chairman and chief product officer at Birst, a cloud BI and analytics provider that last week announced $65 million in new funding.
+Today, organizations are realizing that there’s an opportunity to push more data to the front lines and provide analytics to almost every user. It’s a democratizing force, and it can lead to smarter, quicker and more effective decisions, Peters said.
+Also contributing to the trend are a shortage of skilled data scientists in the workforce, and an element of peer pressure among organizations, said Kirk Borne, a data scientist and professor at George Mason University.
+Put it all together, and it’s becoming clear that data-analysis tools are increasingly everywhere that enterprise software is. What remains to be seen is whether that’s necessarily a good thing.
+“By putting data into the hands of people who know it best, IT can focus on the data governance, security and infrastructure, data acquisition, maintenance and provisioning rather than writing queries and producing reports,” said Francois Ajenstat, vice president of product management for Tableau Software. “The best analytical insights come from user-generated dashboards running on top of IT-managed infrastructure.”
+On the other hand, many of these tools are equipped with high-powered analytical capabilities, and it’s unclear if they’ll be used effectively by employees who aren’t trained in the nuances of the analyses being performed.
+“I definitely worry that the right tool in the wrong hands can lead to problems,” Borne said. “At best, it leads to results that are not understandable, interpretable or meaningful; at worst, it leads to totally incorrect results.”
+Not knowing that certain analytics methods require particular data types or data transformations, for instance, can lead to useless results and wasted effort, he pointed out.
+Birst’s Peters emphasizes the importance of user training and corporate governance to ensure that tools are used appropriately.
+It’s also possible that the risks of misuse are no worse than those associated with any business-intelligence tool, Tableau’s Ajenstat said: “It’s always possible for someone to make a decision based on bad data or a bad assumption.”
+Still, it’s unlikely that “out-of-the-box” analytics will succeed in situations where the end-user is not properly trained and lacks experience in best practices, Borne said. “I think that a person without a formal analytics education but with good data literacy, numeracy, curiosity and problem-solving skills will probably be okay, but only after tutorials and training.”
+The spread of analytics may become even greater over time. Analytics APIs and out-of-the-box toolkits, in particular, will “sell like hotcakes” to Internet-of-Things entrepreneurs, startups and innovators as well as to the big incumbents who “see the value in enterprise solutions when compared against expensive, in-house, custom-built, R&D-intensive solutions,” said Borne.
+In fact, enterprises will eventually begin automating more and more high-level analytics capabilities, he predicted, with fewer and fewer humans involved.
+Gregory Piatetsky-Shapiro, president and editor of analytics-focused KDnuggets.com, had a similar view. Automated and embedded analytics will increasingly take hold, followed eventually by a greater use of artificial intelligence and machine learning, he said. As part of that diminishing human involvement, a number of professions could be particularly at risk, including lawyers, accountants, marketers and financial advisors.
+Reporters were also on Piatetsky-Shapiro’s list, though he did offer a note of temporary reassurance. “Computers can use data to generate articles,” he said. “Like this one? Not yet.”
+Katherine Noyes U.S. Correspondent
+Katherine Noyes has been an ardent geek ever since she first conquered Pyramid of Doom on an ancient TRS-80. Today she covers enterprise software in all its forms, with an emphasis on Linux and open source software.
+Comments
+To:
+From
+reCAPTCHA
+Sorry
+Latest Videos
+May 4, 2015 2:00 AM
+High-tech cars aren't just about parking assist and electric motors. Listen to Ford CTO Raj Nair geek out on lightweight materials and aerodynamics you've never seen in a production car.
+READ THE RELATED ARTICLE:<
+Subscribe to the Daily Downloads Newsletter
+By submitting your email address you are consenting to receive email notifications from IDG. You may withdraw your consent at any time. Please refer to our privacy policy for more information.

@@ -1,0 +1,52 @@
+2015-05-05 21:29:14
+2015-05-06 23:56:59
+2015-05-05 09:15:35
+2015-05-06 17:10:24
+2015-05-05 11:43:29
+Featuring fresh takes and real-time analysis from HuffPost's signature lineup of contributors
+Hot on the Blog
+Posted:
+By Noah J. Nelson ( @noahjnelson )
+We may call the devices in our pockets "smartphones," but they are relatively blunt instruments. Designed to respond to our commands usually inputed as text; although a shaky understanding of the spoken word is slowly dawning on them. They have "eyes" to see in the form of cameras, but what these devices know about the world around them is limited. Not so "smart," after all.
+All that is about to change.
+You may have heard of Google's Project Tango , a mobile phone that is the first to bring the magic of "machine vision" to mobile. Recently I had the chance to talk with the CEO of the company that makes the chip that powers Tango-- the Myriad-- Remi El-Ouazzane of Movidius .
+El-Ouazzane joined from technology mainstay Texas Instruments, and has become the company's chief evangelist--sharing the company's vision of a future where machines not only see, but understand the world around them.
+"If we are to enable machines to see the way humans do," said El-Ouazzane, "they must be able to capture images as well as process them to extract an understanding of what it sees. To extract understanding, machines need to run complex vision algorithms to detect and track specific objects, or to recognize the environment by extracting 3D models of the scene, or enable interaction with the environment with augmented and virtual elements in a seamless way."
+The first wave of applications, which will make their way to head-mounted displays, wearable cameras and drones include a veritable laundry list of capabilities according to El-Ouazzane: from rapid auto-focus and extreme low light all the way to object detection, and modeling and scanning for 3D printing with practically every stop along the way you can imagine just this side of teleportation.
+More interesting than the list of features the chips will unlock is what happens when the devices are able to do some of the thinking for themselves.
+"For example," said El-Ouazzane, "smart home automation devices will be able to adjust house settings based on who is in the house and movement patterns thanks to the ability to do visual sensing accurately in real-time. Also, wearable cameras carried around the neck or on a lapel will extract intelligence from the scene; for example, the device will guide a blind person on the street or inside a store or recognize and remember the name of the person the user is speaking with."
+Those who follow the tech world closely know that a lot of these applications have been running around the lab or have been available with special equipment. What's changing now is the ability to pack this technology into mobile devices.
+"The biggest hurdle has been the mismatch between hardware and software algorithms. Machine vision requires extremely capable hardware to ensure it can run smoothly in real-time. Hardware has just now started to offer enough performance to align with these software requirements, allowing mobile devices to run tasks that would've been too complex for a phone just a few years ago.
+"Despite this progress, most devices still struggle with the more complex machine vision tasks like feature recognition or mapping a space using a camera, placing greater strain on the core components of a mobile device. This is why our technology is a crucial element for mobile devices looking to use machine vision. It helps compensate for some of the aspects that traditional hardware may struggle with, freeing up the technology to provide a more seamless experience to consumers."
+You might find yourself wondering, as I did, why there is a need for a dedicated chip for these kinds of functions. Why not just run detection software on a mobile CPU. The chips in our phones now, after all, are as powerful as desktop computers from a few years ago.
+"This ultimately comes down to providing the best experience to users," said El-Ouazzane. "A CPU is designed to generally handle a wide range of tasks, from the Android operating system to managing your music library or running any and every app. The CPUs are very flexible, and they can be programmed to handle a diverse range of workloads, but this makes them naturally inefficient if you were to use them to enhance machine vision processing.
+"To burden the CPU or other resources on the general purpose Applications Processor (e.g. GPU, DSP) with the task of image or vision processing, would result in a limited experience with excessive latency (i.e. processing time) and higher power that might drain battery life more quickly. This is the same reason we use GPUs for graphics intensive work on the display side. They are specifically designed for rendering and shading and display-specific tasks that free the CPU to work on other operations."
+Movidius's Myriad series, updated to the Myriad 2 this past July, does for vision processing what GPUs do for graphics. Complex algorithms are accomplished with limited power consumption.
+"And by keeping the machine vision processing very close to the camera sensor on such a specialized chip, we are providing users with a low power, high performance platform that dramatically decreases latency (compute time) for machine vision tasks."
+Of course I couldn't talk with a CEO about whiz-bang future tech without asking him what his company's advancements meant for gaming and entertainment.
+"Imagine being able to map a real world space through a camera on your phone into a virtual world instantaneously in real-time for use as the backdrop in a video game--for example, think of a real-time Minecraft but based on what your camera sees. Better machine vision technology would allow phone to accurately map the surrounding world, extracting things like depth from images to create a more realistic experience."
+"Better machine vision technology can greatly reduce the latency or "motion sickness" currently hurting the VR industry. By cutting down on the lag a user experiences (namely, the frame refresh rate and reaction time), we can deliver a more fluid experience that better engages people in the technology."
+We've already seen the adoption of external sensor cameras in VR set-ups from both Oculus and Sony. More energy efficient chips that were powering the same tracking processes could mean a sped up adoption of head-mounted displays as mobile devices acted as either trackers, or as trackers and displays combined.
+Imagine, if you will, a version of the Samsung Gear VR--or a competing device--that was able to reckon a tracking model using what it was able to "see" around it without external markers. This would allow for the kind of quality we get from systems with an "observer" camera all while relying on a single device.
+What can't we see yet?
+That would be the world that will come to pass when technology like the Myriad series is as commonplace as GPUs and the motion sensing chips that are currently getting packed into smartphones.
+Follow Turnstyle on Twitter: www.twitter.com/turnstylenews
+More:
+Options
+Technology
+Get top stories and blog posts emailed to me each day..
+Facebook
+HuffPost
+Technology
+Twitter
+HuffPost
+Follow
+Technology
+Follow
+Part of AOL Tech
+Use this form to alert a HuffPost editor about a factual or typographical error in this story.
+Notify message
+Describe the error here (1,000 character limit)
+* Type the words below so we know you are not a cyborg
+Sign me up for The Morning Email
+Thanks for your report!

@@ -1,0 +1,52 @@
+April 13, 2015
+Fully autonomous vehicles employ radar, ultrasound, vision-based systems, and 3D laser scanners to determine the direction, speed of a vehicle and the conditions of the environment surrounding them. To demonstrate how single cameras can be deployed as part of these systems, AdasWorks (Budapest, Hungary; www.adasworks.com ) - the computer vision research arm of Kishonti Informatics (Budapest, Hungary; https://kishonti.net ) - has developed a system that relies solely on capturing visual data from a single front-facing camera. Image data is then processed on a commercially available application processor running the company's own AdasWorks image processing software.
+[Native Advertisement]
+Software running on a GPU processes image data captured by a front facing camera to detect the center of the road. Based on its visible length and curvature, the trajectory of the vehicle and the optimum speed of travel is calculated.
+To highlight the effectiveness of its system, AdasWorks has teamed with ThyssenKupp Presta Hungary (Budapest, Hungary; www.thyssenkrupp-presta.hu ) to demonstrate how the AdasWorks software can be deployed as part of a complete autonomous control system for a Mercedes Benz C200 saloon.
+After evaluating a number of cameras, engineers at AdasWorks mounted a Flea3 1.3MPixel camera from Point Grey (Richmond, BC, Canada; www.ptgrey.com ) to the front of the Mercedes Benz C200 saloon. Images captured by the camera were then transferred over a USB 3.0 interface to an electronic control unit which comprises a Tegra K1 application processor from NVIDIA (Santa Clara, CA, USA; www.nvidia.com ) running the AdasWorks software.
+"The Flea3 camera enabled the application processor to trigger the camera to capture time-stamped 1280 x 800 color images at variable frame rates and to transfer those images over the USB 3.0 interface directly to the processor board," says Zoltan Prohaszka, chief scientist of AdasWorks.
+The AdasWorks software running on the NVIDIA Tegra K1 processes the image data captured by the front-facing Flea3 camera to detect the center of the road, and based on its visible length and curvature, computes the trajectory of the vehicle and determines the optimum speed it should be travelling.
+"On the prototype system, monocular image processing algorithms are used to calculate the shape of the road ahead of the car," says Szabolcs Janky, Automotive Integration Engineer at Kishonti Informatics. "One of the algorithms is a vector based lane detection algorithm and the other is a road appearance model based algorithm." These were developed using Kishonti's computer vision library primitives that include functions such as optical flow and bilateral filtering. These algorithms will soon be commercially available in the AdasWorks software.
+This software also ascertains whether the car is in danger of collision with a vehicle in front of it and if has departed from the lane in which it is travelling. The lane detection algorithm detects both the type and color of the lane markings in the driving and neighboring lanes, while a car detection algorithm detects road vehicles and estimates their distance from the car using measurements from multiple frames captured by the camera.
+In addition, a pedestrian detection algorithm can recognize pedestrians and the way in which they are moving relative to the path of the vehicle to determine whether or not they are in danger of being struck.
+Based on the analysis of the scene in front of the vehicle, the AdasWorks software extracts the trajectory of the vehicle from the image data and computes the desired amount of acceleration or breaking that should be applied to maintain the vehicle at a safe speed. Having done so, data are transferred over an Ethernet interface to a MicroAutoBox Power PC-based system from dSPACE (Paderborn, Germany; www.dspace.com).
+ThyssenKrupp Presta Hungary developed a trajectory controller algorithm running on the dSPACE hardware that calculates the steering angle based on the position of the vehicle and the received trajectory points. The dSPACE system also acts as a communication interface for the vehicle by converting the digital steering, acceleration and brake output values computed from the image data to control electromechanical actuators within the vehicle. These rotate the steering column, move the accelerator pedal and apply a pneumatic braking system.
+Once the system had been installed in the Mercedes C200 saloon, the vehicle was shipped to the Hungaroring Formula 1 motor-racing circuit in Hungary. There, the computer vision algorithms running on the application processor were optimized based on an analysis of video recordings of the car's behavior around the track. The effectiveness of the trajectory and speed control systems in the vehicle were then evaluated. Having done so, the capability of the system was demonstrated, as the vehicle successfully navigated the circuit without human intervention. A video of the system in action can be found at: http://bit.ly/1ap6Mce.
+"Autonomous vehicles will not be built using only one camera," says Janky. "However, such autonomous systems have to be redundant - every sensor, especially the camera has to provide the control system with enough information to safely stop the vehicle if something unexpected happens. Thus, tests with strongly reduced sets of input sensors are highly important," he says.
+Related Articles
+May 5, 2015
+May 5, 2015
+Please fill out the remaining fields to complete your registration.
+First Name
+Last Name
+Company
+Country
+By clicking 'Register' you are indicating that you have read and agree with our Terms & Conditions and Privacy Policy .
+Login Don't have an account? Register now
+Login with your social account:
+or
+Email Address
+Join using your social account:
+or
+First Name
+Last Name
+Company
+Country
+By clicking 'Register' you are indicating that you have read and agree with our Terms & Conditions and Privacy Policy .
+Forgot your password?
+Enter your email address below and click Submit to receive password reset instructions via email.
+Email Address
+Email Sent
+An email has been sent to .
+Please follow the instructions in the email to change your password.
+Welcome to PennWell
+Your account has been created and you are now logged in.
+You already have an account
+It looks like you've already registered with .  Please login below to link your accounts.
+Email Address
+Please Verify Your Account
+Thank you for registering.  An email has been sent to with instructions on how to verify your account.
+Please Verify Your Account
+The specified email address, , needs to be verified in order to login.
+An email has been sent to with instructions on how to verify your account.
+/content/vsd/en/articles/print/volume-20/issue-4/departments/technology-trends/autonomous-vehicles-embedded-vision-system-assists-self-navigated-automobiles.resendverification.html

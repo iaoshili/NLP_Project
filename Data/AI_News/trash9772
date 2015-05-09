@@ -1,0 +1,21 @@
+Close ×
+This web site uses cookies to improve your experience. By viewing our content, you are accepting the use of cookies. To find out more and change your cookie settings, please view our cookie policy .
+Summary:Microsoft has released to testers a new Windows 10 Desktop preview build, the first to include the coming new 'Project Spartan' browser.
+Microsoft is making available to its Windows Insiders testers the first Windows 10 Desktop test build that includes its new 'Project Spartan' browser.
+Like Windows 10 Desktop -- which runs on PCs, laptops and tablets -- Spartan is still not feature-complete at this point. The first Spartan preview does, however, include most of the functionality that Microsoft execs showed off on January 21 during an early demo of Spartan as part of a Windows 10 press event.
+Specifically, the integration between Spartan and Cortana , Microsoft's personal digital assistant, is in today's Windows 10 release, as is the "Ask Cortana" user assistance technology. The ability to annotate Web pages with a pen or mouse is included in today's Spartan build. Users can share annotated Web pages using this new "Web Note" technology and view the annotated pages in a variety of browsers.
+The new Reading View, which allows users to view content with fewer distractions and/or save it for later, also is in Spartan in today's new test build. (The ability to read saved content offline is not yet enabled in today's test build.)
+Today's Windows 10 Desktop build includes the browsing rendering engine changes Microsoft officials outlined last week.
+The Spartan browser, which will be pinned to the Windows 10 Desktop task bar, includes only the new "Edge" rendering engine. At the same time, IE 11, which also is bundled with the Windows 10 Desktop, includes only the "Trident" (MSHTML) rendering engine -- not both the Edge and Trident ones -- and is there for backwards compatibility. IE 11 is not pinned to the task bar in Windows 10 Desktop, but it is still meant to be readily discoverable and usable (and pinnable, if users want to do so).
+There are a few bug fixes in today's new Windows 10 Desktop build but no other noteworthy new features beyond Spartan.
+Microsoft officials said over the weekend that the company is working on the next test release of Windows 10 Mobile, which is on track to support the majority of Lumia Windows Phones . Gabe Aul, the head of the Windows Insiders program, said on March 27 that Microsoft probably had at least  one more week's worth of engineering/testing work to do on what will be the second public test build of Windows 10 Mobile before releasing it to testers.
+Read this
+Windows 10 Mobile is designed to run on ARM-based Windows Phones, as well as ARM- and Intel-based small tablets. Windows 10 Mobile is expected to include Spartan, but not IE 11, when the first browser-inclusive version of it is available to testers, as well as when it's commercially available.
+Disclosure
+Freelance journalist/blogger Mary Jo Foley has nothing to disclose. WYSIWYG (what you see is what you get).  I do not own Microsoft stock or stock in any of its partners or competitors.  I have no business ventures that are sponsored by Microsoft or any of its partners or competitors.
+Kick off your day with ZDNet's daily email newsletter . It's the freshest tech news and opinion, served hot. Get it.
+Join the discussion
+Related Stories
+The best of ZDNet, delivered
+You have been successfully signed up. To sign up for more newsletters or to manage your account, visit the Newsletter Subscription Center .
+Subscription failed.

@@ -1,0 +1,49 @@
+A new feature called "3D scene flow" in MVTec’s HALCON 12 machine vision software will enable users to detect and track the 3D motion of objects.
+MORE ARTICLES
+A new emerging technology in the automotive industry is the collision avoidance system, which detects an imminent front crash using optical sensors , radar, or a combination of the two, and provides warning, braking, and/or steering systems in response, according to MVTec. In addition, autonomous robot manufacturers are using 3D imaging to guide the motion of robots or autonomous vehicles. HALCON 12, which officially launched at the end of 2014, addresses the need for 3D motion tracking with its 3D scene flow feature.
+3D scene flow works by using two consecutive stereo image pairs to determine uncalibrated (relative) and calibrated (real-world coordinate) 3D motion data. In the uncalibratred mode, 3D scene flow provides relative motion information in the form of optical flow (the 2D shift of features between consecutive images) plus the change in disparity of features between two consecutive stereo image pairs. Calibrated 3D scene flow provides 3D motion data by detecting and tracking the 3D position changes of surface points on a 3D object model found in consecutive point cloud scenes. In this case, the point clouds are reconstructed from the stereo image pairs.  
+Additional new features in HALCON 12 include an "automatic text reader,"  OCR function, which can handle variations in character features and can both detect and recognize characters in a single operation. Another feature is a set of improvements for MLP classifier, as well as an enhanced interface programming environment, HDevelop, including support for event-based processing.
+In addition, MVTec’s new software will feature faster speeds, as it will utilize multi-core processors SSE2 and AVX, as well as GPU acceleration and AVX2, which will enable faster running times on state-of-the-art processors.
+View more information on HALCON.
+Share your vision-related news by contacting James Carroll , Senior Web Editor, Vision Systems Design
+To receive news like this in your inbox, click here .
+ 
+ 
+April 1, 2015
+March 18, 2015
+March 4, 2015
+FROM THE WEB
+Please fill out the remaining fields to complete your registration.
+First Name
+Last Name
+Company
+Country
+By clicking 'Register' you are indicating that you have read and agree with our Terms & Conditions and Privacy Policy .
+Login Don't have an account? Register now
+Login with your social account:
+or
+Email Address
+Join using your social account:
+or
+First Name
+Last Name
+Company
+Country
+By clicking 'Register' you are indicating that you have read and agree with our Terms & Conditions and Privacy Policy .
+Forgot your password?
+Enter your email address below and click Submit to receive password reset instructions via email.
+Email Address
+Email Sent
+An email has been sent to .
+Please follow the instructions in the email to change your password.
+Welcome to PennWell
+Your account has been created and you are now logged in.
+You already have an account
+It looks like you've already registered with .  Please login below to link your accounts.
+Email Address
+Please Verify Your Account
+Thank you for registering.  An email has been sent to with instructions on how to verify your account.
+Please Verify Your Account
+The specified email address, , needs to be verified in order to login.
+An email has been sent to with instructions on how to verify your account.
+/content/vsd/en/articles/2015/04/machine-vision-software-enables-3d-motion-tracking.resendverification.html

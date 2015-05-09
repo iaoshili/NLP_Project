@@ -1,5 +1,7 @@
 package com.company;
 
+import de.l3s.boilerpipe.BoilerpipeProcessingException;
+import edu.stanford.nlp.util.FileProcessor;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -8,6 +10,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 
+import java.net.URL;
+
+import de.l3s.boilerpipe.extractors.DefaultExtractor;
 
 /**
  * Created by Greyjoy on 4/7/15.
@@ -46,7 +51,7 @@ public class PreprocessURLs {
     private static String ListToString(String[] strList, int startIndex, int endIndex) {
         StringBuffer result = new StringBuffer();
         for (int i = startIndex; i < endIndex; i++) {
-            result.append(strList[i]+" ");
+            result.append(strList[i] + " ");
         }
         return result.toString();
     }
@@ -99,6 +104,27 @@ public class PreprocessURLs {
             System.out.println(e.toString());
         }
         return text;
+    }
+
+    public static void SaveMainContent(String urlStr, String savePath) {
+        URL url = null;
+        String content = null;
+        try {
+            url = new URL(urlStr);
+            content = DefaultExtractor.INSTANCE.getText(url);
+        }
+        catch (MalformedURLException e){
+            System.out.println(e.toString());
+        }
+        catch (BoilerpipeProcessingException e) {
+            System.out.println(e.toString());
+        }
+        finally {
+            ProcessFile.writeToFile(content,savePath);
+        }
+
+
+
     }
 
 }

@@ -1,0 +1,49 @@
+Now that's a useful gadget! Researchers reveal robot that can find, clean and fold your dirty washing (although it does cost $280,000)
+Robot can do everything from find and sort clothes to fold them
+Can even put the clean clothes away in the correct place
+Robot can recognise items of clothing and treat them accordingly 
+1.8k shares
+Researchers at Berkeley today revealed their robotics team has almost cracked the problem.
+It can wash and fold clothes, even recognising different items, and folding them all neatly when it's done. 
+Scroll down for video
+Using Willow Garage's $280,000 Personal Robot 2, Berkeley students have written software to allow it to do almost every part of the laundry process
+HOW A ROBOT DOES THE LAUNDRY
+The steps needed are:
+Take laundry basket to washer
+Open washer door
+Add soap
+Fold laundry or put laundry on hangers
+Put away laundry in dresser or closet
+Using Willow Garage's $280,000 Personal Robot 2, Berkeley students Siddharth Srivastava and his co-authors have written a paper about their version of the open-source PR2, which they have programmed to fold laundry.
+In a video published this week, the robot can be seen taking clothes out of a basket and placing them in a washer. 
+The semi-humanoid robot is 'roughly the size of a person' and features two arms, claw-like 'gripper' hands, a front-facing screen head, and a tilting Hokuyo laser scanner that continuously flaps up and down like an ever-chattering mouth. 
+'Given only the high-level goal of cleaning all 'dirty' clothes (which are unknown in number) and actions such as pick, place, open and close, the UC Berkeley PR2 figures out a plan for doing laundry and then executes it,' said Srivastava.
+'We demonstrate our techniques on several planning problems and show that they apply to challenging real-world tasks such as doing the laundry with a PR2 robot.'
+The team has been developing the system since 2010.
+RELATED ARTICLES
+Share
+The PR2 has already mastered the ability to fetch a beer from the refrigerator, pick up a sandwich from Subway, shave a man's face, set a dining table and even play pool. 
+However, it still has issues with one thing - washing machines.
+The PR2 can't quite differentiate between a clean, rumpled shirt lying on the floor and a dirty, rumpled shirt lying on the floor, and can't yet reach into the machine to take the clothes out of the dryer. 
+Berkeley's robot is able to find and sort clothes however they are left in front of it - then wash them
+The PR can't yet reach into the machine to take the clothes out of the dryer - but can do virtually everything else in the laundry process - even folding up your clothes neatly.
+Robots like the car-assembly ones are designed to work in highly structured settings, which allows them to perform a wide variety of tasks with mind-boggling precision and repeatability — but only in carefully controlled environments. 
+Automation of household tasks like laundry folding is somewhat compelling in itself. 
+But more significantly, according to doctoral student Jeremy Maitin-Shepard, the task involves one that's proved a challenge for robots: perceiving and manipulating 'deformable objects' – things that are flexible, not rigid, so their shape isn't predictable. 
+A towel is deformable; a mug or a computer isn't. 
+'Existing work on robotic laundry and towel folding has shown that starting from a known configuration, the actual folding can be performed using standard techniques in robotic manufacturing,' says Maitin-Shepard. 
+'Many important problems in robotics and computer vision involve deformable objects,' said Assistant Professor Pieter Abbeel of Berkeley. 
+The stages the robot goes through to complete a laundry run
+The team's technical innovation is a new computer vision-based approach for detecting the key points on the cloth for the robot to grasp.
+ 
+ 
+1.8k
+shares
+We are no longer accepting comments on this article.
+Who is this week's top commenter? Find out now
+More top stories
+DON'T MISS
+ 
+ 
+Published by Associated Newspapers Ltd
+Part of the Daily Mail, The Mail on Sunday & Metro Media Group

@@ -1,0 +1,42 @@
+Over the past twenty years, I have had the pleasure on interviewing numerous developers that have designed machine vision and image processing systems. After having installed such systems, many companies tout the labor savings, the high-throughput and increased accuracy that these systems have over manual inspection methods. Some even like to claim that their systems are 100% accurate. In practice, however, the precision and repeatability that even the most highly sophisticated systems have always exhibit less than 100% accuracy, although many Six-Sigma systems can approach such values.
+[Native Advertisement]
+When inspecting a mechanical part for defects, for example, the dimensions of a known good perfect part can be specified and then measured within statistically acceptable deviations. However, when inspecting products that are not easily described, machine vision inspection becomes a more intractable task. Vegetables and fruit, for example, may be easily described in terms of their weight, size and color, but the external and internal defects that they may exhibit may be immensely varied, making the task of programming a conventional machine vision system to take account of every defect difficult and time consuming.
+To overcome this problem, many systems developers are looking to more unconventional methods that use sophisticated image classifiers such as neural networks and support vector machines (SVMs). After employing conventional image processing algorithms to extract numerous features of objects, the system is then presented with often hundreds of different types of objects of different parameters, all which may exhibit numerous types of defects.
+After these are presented to the vision system, a human operator then trains the system as to which objects are acceptable. In such supervised machine learning systems, neural networks and SVMs can then be used to classify sort the products. Because such classifiers provide a graded value based on a combination of measured data and takes into account the relationship between the different measured values, they can be more accurate than systems that discriminate products based on single values alone.
+ 
+May 5, 2015
+May 5, 2015
+Please fill out the remaining fields to complete your registration.
+First Name
+Last Name
+Company
+Country
+By clicking 'Register' you are indicating that you have read and agree with our Terms & Conditions and Privacy Policy .
+Login Don't have an account? Register now
+Login with your social account:
+or
+Email Address
+Join using your social account:
+or
+First Name
+Last Name
+Company
+Country
+By clicking 'Register' you are indicating that you have read and agree with our Terms & Conditions and Privacy Policy .
+Forgot your password?
+Enter your email address below and click Submit to receive password reset instructions via email.
+Email Address
+Email Sent
+An email has been sent to .
+Please follow the instructions in the email to change your password.
+Welcome to PennWell
+Your account has been created and you are now logged in.
+You already have an account
+It looks like you've already registered with .  Please login below to link your accounts.
+Email Address
+Please Verify Your Account
+Thank you for registering.  An email has been sent to with instructions on how to verify your account.
+Please Verify Your Account
+The specified email address, , needs to be verified in order to login.
+An email has been sent to with instructions on how to verify your account.
+/content/vsd/en/articles/print/volume-20/issue-1/departments/my-view/intractable-tasks.resendverification.html
